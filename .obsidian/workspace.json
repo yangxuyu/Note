@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "cb5b94d62d48a7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公开课评价.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bd23cc6df3c494bc",
             "type": "leaf",
             "state": {
@@ -38,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,10 +177,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0460584c82c5a4fe",
+  "active": "cb5b94d62d48a7fe",
   "lastOpenFiles": [
-    "Note.git~",
+    "日记.md",
     "公开课评价.md",
+    "Note.git~",
     "未命名 1",
     "未命名"
   ]
