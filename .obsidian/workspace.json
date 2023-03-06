@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公开课评价.md",
+                "file": "日记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a813a39beae265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公开课评价.md",
+                "file": "日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公开课评价.md",
+                "file": "日记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公开课评价.md"
+                "file": "日记.md"
               }
             }
           }
@@ -177,12 +189,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cb5b94d62d48a7fe",
+  "active": "d8a813a39beae265",
   "lastOpenFiles": [
-    "日记.md",
     "公开课评价.md",
+    "GitHub仓库评价.md",
+    "MarkDown超级教程.md",
+    "日记.md",
+    "未命名",
     "Note.git~",
-    "未命名 1",
-    "未命名"
+    "未命名 1"
   ]
 }

@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Consolas,微软雅黑"
 }
