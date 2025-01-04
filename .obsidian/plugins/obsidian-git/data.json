@@ -3,7 +3,7 @@
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1440,
   "autoPushInterval": 0,
-  "autoPullInterval": 0,
+  "autoPullInterval": 2880,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
