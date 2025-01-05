@@ -1,11 +1,5 @@
 
 
-2.  [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
-    
-3.  [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 这个仓库推荐了很多很多有趣入门的开源项目。因为各个语言的项目它都推荐，只需要找找自己感兴趣的就行，把它当成一个字典就好了。
-
-4. [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) 这个偏向道，有一些资料推荐，但更重要的是选择合适自己的方法，以及喜欢的材料。毕竟现在的英语资料那么多，学英语不应该是痛苦的背八股。
-
 
 > just for fun
 ## 目录
@@ -17,7 +11,8 @@
 > **以下为内容**｜ 不定期更新
 
 ###  力荐阅读项目   
-1、[HandBrake](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HandBrake/HandBrake)：免费的开源视频转码工具。这是一款功能强大、社区驱动的开源视频转码工具，它支持将各种不同格式的视频文件，转换为 MP4 和 MKV 等常见格式。
+1、[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)，这个仓库分享 GitHub 上很多有趣、入门级的开源项目。因为各个语言的项目它都推荐，只需要找找自己感兴趣的就行。
+
 
 
 ### 推荐阅读项目    
@@ -32,11 +27,26 @@
 
 
 ### 其它
+
+6、 [awesome](https://github.com/sindresorhus/awesome)
+
+7、 [awesome-go](https://github.com/avelino/awesome-go)：
+
+8、 [awesome-c](https://github.com/oz123/awesome-c)
+
+
 35、<!-- -->
 
 [anx-reader](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Anxcye/anx-reader)：免费的 Android 电子书阅读器。这是一款用 Flutter 编写的电子书阅读软件，它免费且没广告，支持 WebDAV 同步电子书、笔记和阅读进度，适用于 Android 手机和平板电脑。
 
    <!-- -->
+
+
+2.  [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
+    
+
+4. [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) 这个偏向道，有一些资料推荐，但更重要的是选择合适自己的方法，以及喜欢的材料。毕竟现在的英语资料那么多，学英语不应该是痛苦的背八股。
+
 
 ### 开源书籍
 41、<!-- 
