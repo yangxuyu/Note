@@ -52,12 +52,20 @@ MrBeast 是一位极具创意和影响力的 YouTube 创作者。他的视频不
 
 
 
-1、[HandBrake](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HandBrake/HandBrake)：
+1、[TheCranberriesTV](https://www.youtube.com/@thecranberriestv?app=desktop)：
 
 爱尔兰摇滚乐队 The Cranberries（小红莓乐队）的官方 YouTube 频道
 《Zombie》、《Linger》、《Dreams》等。这些视频制作精良 
 
 王菲翻唱过她的歌，甚至唱法都是
+
+
+
+2、[Queen Official](https://www.youtube.com/channel/UCiMhD4jzUqG-IgPzUmmytRQ)：
+
+
+
+
 
 
 2、[CCTV春晚](https://www.youtube.com/@CCTVGala/videos)：
