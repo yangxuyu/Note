@@ -25,11 +25,48 @@ pakku 立志于改善哔哩哔哩弹幕视频的观看体验，可以合并B站�
 
 
 
+
+
+
 ### 推荐阅读项目    
 
 
 
 <!-- 
+
+1、[# 篡改猴](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN
+)：
+
+1、[# YouTube™ 双字幕](https://chromewebstore.google.com/detail/youtube-%E5%8F%8C%E5%AD%97%E5%B9%95/hkbdddpiemdeibjoknnofflfgbgnebcm
+)：
+
+
+
+
+1、[# Octotree - GitHub code tree]https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)：
+
+
+# 沙拉查词-聚合词典划词翻译
+https://chromewebstore.google.com/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  -->
 
