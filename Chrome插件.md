@@ -20,7 +20,7 @@ pakku 立志于改善哔哩哔哩弹幕视频的观看体验，可以合并B站�
 
 
 
-2、[# AdGuard 广告拦截器](https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg)：广告拦截扩展，还有个AdBlock比这个下载量更大，随便下一个都可以，主要现在都躲不过YouTube的检测。习惯用AdGuard，是因为绿色图标比红色图标看着舒服。
+2、[# AdGuard 广告拦截器](https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg)：广告拦截扩展，这类插件还挺多的：AdBlock，uBlock，随便下一个都可以，主要现在都躲不过YouTube的检测。习惯用AdGuard，是因为绿色图标比红色图标看着舒服。
 
 
 
@@ -43,7 +43,7 @@ pakku 立志于改善哔哩哔哩弹幕视频的观看体验，可以合并B站�
 
 
 
-1、[# Octotree - GitHub code tree]https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)：
+1、[# Octotree - GitHub code tree]https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)：增强 GitHub 代码阅读和探索的浏览器扩展，最主要用得功能是类似 IDE 的快速代码树。
 
 
 # 沙拉查词-聚合词典划词翻译
@@ -76,10 +76,10 @@ https://chromewebstore.google.com/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E
 
 ###  集散地
 
-1、[谷粒-Chrome插件英雄榜](https://zhaoolee.com/ChromeAppHeroes/#/)：粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类
+1、[谷粒-Chrome插件英雄榜](https://zhaoolee.com/ChromeAppHeroes/#/)： 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类。
 
 
-
+1、[极简插件](https://chrome.zzzmh.cn/extension?view=card&page=1&sort=hot)：极简插件网站是Chrome浏览器扩展插件商店的搬运工。
 
 <p align="center">
     <!--
