@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-12.md",
+                "file": "2025-03-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-12"
+              "title": "2025-03-15"
             }
           }
         ],
@@ -340,8 +340,9 @@
   },
   "active": "2421d97b2f0d549b",
   "lastOpenFiles": [
-    "日记/2025-03-03.md",
     "2025-03-12.md",
+    "2025-03-15.md",
+    "日记/2025-03-03.md",
     "日记/2025年日记.md",
     "rfc.md",
     "README.md",
@@ -366,7 +367,6 @@
     "YouTuber推荐.md",
     "归档/收藏的文章.md",
     "未命名",
-    "日记/2024-12-09.md",
     "归档",
     "Note.git~",
     "未命名 1"
