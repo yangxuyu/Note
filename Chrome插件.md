@@ -14,17 +14,12 @@
 
  -->
 
-1、[pakku：哔哩哔哩弹幕过滤器](https://chromewebstore.google.com/detail/pakku%EF%BC%9A%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E8%BF%87%E6%BB%A4%E5%99%A8/jklfcpboamajpiikgkbjcnnnnooefbhh)：瞬间过滤B站(bilibili.com)的刷屏弹幕，还你清爽的弹幕视频体验。
-
-pakku 立志于改善哔哩哔哩弹幕视频的观看体验，可以合并B站视频中绝大多数刷屏弹幕，让您免受各种带节奏弹幕的刷屏之苦。左侧的截图就展示了 pakku 实现的惊人效果。 内容近似且时间差在一定时间以内的多个刷屏弹幕都会被合并成一条弹幕，减少遮挡屏幕。这样您在看视频时，就不用总是频繁倒回去看被弹幕挡住的画面了。 在推荐的设置下，pakku 能为您阻挡绝大多数重复弹幕，它们甚至可达弹幕池总数的30%~80%。
+1、[pakku：哔哩哔哩弹幕过滤器](https://chromewebstore.google.com/detail/pakku%EF%BC%9A%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E8%BF%87%E6%BB%A4%E5%99%A8/jklfcpboamajpiikgkbjcnnnnooefbhh)：B站的弹幕过滤插件，还你清爽的弹幕视频体验。
 
 
+2、[AdGuard 广告拦截器](https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg)：广告拦截的扩展，这类插件还挺多的：AdBlock，uBlock。随便一个都可以，可惜现在都躲不过 YouTube 的检测。谷歌现在开始干坏事了。习惯用 AdGuard 是因为绿色图标比红色图标看着舒服。
 
-2、[# AdGuard 广告拦截器](https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg)：广告拦截扩展，这类插件还挺多的：AdBlock，uBlock，随便下一个都可以，主要现在都躲不过YouTube的检测。习惯用AdGuard，是因为绿色图标比红色图标看着舒服。
-
-
-
-
+3、[OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)：将所有标签页转换成一个列表的插件，这对于标签页常年大于100的人来说是个福音，但仅仅想整理时的缓解，因为过不了多久标签页又满了。
 
 
 
@@ -33,6 +28,10 @@ pakku 立志于改善哔哩哔哩弹幕视频的观看体验，可以合并B站�
 
 
 <!-- 
+
+
+[]()：
+
 
 1、[# 篡改猴](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN
 )：
