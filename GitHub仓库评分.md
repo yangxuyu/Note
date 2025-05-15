@@ -36,7 +36,7 @@
 
 35、<!-- -->
 
-[anx-reader](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Anxcye/anx-reader)：免费的 Android 电子书阅读器。这是一款用 Flutter 编写的电子书阅读软件，它免费且没广告，支持 WebDAV 同步电子书、笔记和阅读进度，适用于 Android 手机和平板电脑。
+
 
    <!-- -->
 
