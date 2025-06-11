@@ -21,8 +21,9 @@
 
 
 
-2、[CCTV春晚](https://www.youtube.com/@CCTVGala/videos)：近些年来春晚已经越来越没意思，完全没看得必要了。但毕竟它曾经是汇集了中国最顶尖的文艺表演者，是中国人春节必看的节目。还是有很多经典的相声、小品、歌舞、魔术、杂技作品。小品：陈佩斯朱时茂、赵本山、沈腾马丽。
-魔术是刘谦，40多年的春晚好节目太多太多，以至不能一一列举完。
+2、[CCTV春晚](https://www.youtube.com/@CCTVGala/videos)：近些年来春晚已经越来越没意思，完全没看得必要了。但毕竟它曾经是汇集了中国最顶尖的文艺表演者，是中国人春节必看的节目。还是有很多经典的相声、小品、歌舞、魔术、杂技作品。小品：陈佩斯朱时茂、赵本山、沈腾马丽。魔术：刘谦，40多年的春晚好节目太多太多，以至不能一一列举完。
+
+3、[NBA on TNT](https://www.youtube.com/@NBAonTNT/videos)：基本上只看Shaqtin' a Fool , 偶尔有些上百万播放的视频看看，一般不看tnt的分析，台柱子是麦基和戈贝尔。
 
 ### 音乐
 
@@ -40,17 +41,18 @@
 
 
 
-
+3、[中岛美雪](https://www.youtube.com/@miyukiofficial/videos)：
 
 
 
 
 
 ###  可不阅读项目
-3、[NBA on TNT](https://www.youtube.com/@NBAonTNT/videos)：基本上只看Shaqtin' a Fool , 偶尔有些上百万播放的视频看看，一般不看tnt的分析，台柱子是麦基和戈贝尔。
+
 
  <!-- 
-[## 计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
+
+
  -->
 
  ###  其他
