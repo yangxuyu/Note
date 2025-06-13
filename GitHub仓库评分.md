@@ -17,10 +17,10 @@
 ### 推荐阅读项目    
 2、[learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) ：几分钟快速了解一门编程语言的语法，就几分钟，都能帮我弄明白了Java、Julia等之前一些不懂的点。如果想进一步了解，它也提供了一些官方资料。但它少了些介绍，比如擅长什么方面，以及趋势性的介绍，不过对于几分钟介绍编程语言，太苛求了。
 
-
+3、[self-consistent-coder](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhangchenchen/self-consistent-coder)：《自洽的程序员》。这是一本关于程序员如何管理自己的情绪和职业心态的书籍，帮助程序员从负面情绪中解脱出来，更加坦然地面对自己的内心，从而实现“自洽“。
 
 ###  可不阅读项目
-4、[## 计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
+4、[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
 
  
 
