@@ -275,12 +275,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公开课评价.md",
+                "file": "极客时间.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "公开课评价"
+              "title": "极客时间"
             }
           }
         ],
@@ -438,6 +438,10 @@
   },
   "active": "31a5ddc5ec14dcc3",
   "lastOpenFiles": [
+    "心愿单和拔草.md",
+    "国内Up主推荐.md",
+    "公开课评价.md",
+    "2025-06-16.md",
     "GitHub仓库评分.md",
     "YouTuber推荐.md",
     "rfc.md",
@@ -447,10 +451,7 @@
     "摘抄.md",
     "云旅游.md",
     "油猴插件.md",
-    "心愿单和拔草.md",
     "极客时间.md",
-    "国内Up主推荐.md",
-    "公开课评价.md",
     "常用配置.md",
     "博客.md",
     "2025-06-13.md",
@@ -463,7 +464,6 @@
     "日记/2025年日记.md",
     "日记/2025-04-07.md",
     "日记/2025-04-15.md",
-    "日记/2025-04-20.md",
     "book/how to speak.pdf",
     "MIT麻省理工学院教你《如何演讲》",
     "book/极客时间",
