@@ -107,68 +107,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouTuber推荐.md",
+                "file": "摘抄.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YouTuber推荐"
+              "title": "摘抄"
             }
           },
           {
-            "id": "25f9bcf376f60e38",
+            "id": "d748809a278a3193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub仓库评分.md",
+                "file": "沟通技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub仓库评分"
-            }
-          },
-          {
-            "id": "ee9c59d3c48732ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "常用配置.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "常用配置"
-            }
-          },
-          {
-            "id": "9656d331539a6a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-03-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-03"
-            }
-          },
-          {
-            "id": "42a70892b7d46ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2024年日记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024年日记"
+              "title": "沟通技巧"
             }
           },
           {
@@ -275,8 +233,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-19.md",
-                "mode": "source",
+                "file": "日记/2025-06-19.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -284,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -436,34 +394,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "31a5ddc5ec14dcc3",
+  "active": "d748809a278a3193",
   "lastOpenFiles": [
+    "摘抄.md",
+    "沟通技巧.md",
+    "云旅游.md",
+    "心愿单和拔草.md",
     "博客.md",
     "常用配置.md",
-    "公开课评价.md",
+    "日记/2024年日记.md",
+    "日记/2023年日记.md",
+    "日记/2025-06-08.md",
+    "YouTuber推荐.md",
     "GitHub仓库评分.md",
+    "日记/2025-06-19.md",
+    "公开课评价.md",
+    "日记/2025-06-21.md",
+    "未命名.md",
     "MarkDown超级教程.md",
     "Chrome插件.md",
-    "摘抄.md",
     "油猴插件.md",
     "演讲.md",
-    "心愿单和拔草.md",
     "极客时间.md",
-    "2025-06-19.md",
-    "2025-06-16.md",
+    "日记/2025-06-16.md",
     "国内Up主推荐.md",
     "英语.md",
-    "2025-06-09.md",
+    "日记/2025-06-09.md",
     "2025-06-13.md",
-    "2025-06-08.md",
     "日记/2025-06-03.md",
-    "YouTuber推荐.md",
-    "rfc.md",
-    "README.md",
-    "云旅游.md",
-    "2025-05-29.md",
-    "日记/2025年日记.md",
-    "日记/2025-04-07.md",
     "book/how to speak.pdf",
     "MIT麻省理工学院教你《如何演讲》",
     "book/极客时间",
