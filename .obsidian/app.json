@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "attachments"
 }
