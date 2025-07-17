@@ -47,6 +47,23 @@
 
 ###  可不阅读项目
 
+[Transcript for Tucker Carlson: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom | Lex Fridman Podcast #414](https://lexfridman.com/tucker-carlson-transcript)：
+
+[Tucker Carlson](https://en.wikipedia.org/wiki/Tucker_Carlson)是一位极具影响力且经常引起争议的政治评论员。他在福克斯任职期间，《时代》杂志称他为美国最有权势的保守派。仅次于福克斯。他继续在X、塔克·卡尔森播客和tuckercarlson.com主持重要且有影响力的访谈和节目。
+
+ It’s like, no, they’re all leaders of countries. Grow up a little bit you child. Have you ever met a leader? First of all, anyone who seeks power is damaged morally, in my opinion. You shouldn’t be seeking power. You can’t seek power or wealth for its own sake and remain a decent person. That’s just true. So there aren’t any really virtuous billionaires and there aren’t any really virtuous world leaders.
+
+But when I was a kid, people always say, “On your deathbed, you never wish you’d spent more time at work.”
+
+But I can’t overstate from my vantage how true that is. Nothing else matters but your family.
+
+Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it once you have kids. It’s like it’s chicken in the egg, but it’s actually not. When you have responsibility, when you have no… This is true of men, I’m not sure if true of women, but it’s definitely true of men, you will not achieve until you have no choice. Because I always think of men, men do nothing until they have to, but once they have to, they will do anything. That is true.
+
+[Transcript for Narendra Modi: Prime Minister of India – Power, Democracy, War & Peace | Lex Fridman Podcast #460](https://lexfridman.com/narendra-modi-transcript):
+
+莫迪真得是政治家的感觉，带着面具的真诚，表面都是peace and  democracy，但是本质还是nationalism。印度是计划经济，民主政治。
+
+但是印度文化，传播真得很广，瑜伽、冥想、断食、黑塞和乔布斯
 
  <!-- 
 
