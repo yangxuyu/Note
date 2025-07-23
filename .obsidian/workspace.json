@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人类记录.md",
+                "file": "2025-07-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人类记录"
+              "title": "2025-07-23"
             }
           },
           {
@@ -396,6 +396,8 @@
   },
   "active": "d748809a278a3193",
   "lastOpenFiles": [
+    "人类记录.md",
+    "2025-07-23.md",
     "2025-07-19.md",
     "YouTuber推荐.md",
     "rfc.md",
@@ -417,12 +419,10 @@
     "MarkDown超级教程.md",
     "GitHub仓库评分.md",
     "Chrome插件.md",
-    "人类记录.md",
     "博客.md",
     "油猴插件.md",
     "极客时间.md",
     "演讲.md",
-    "心愿单和拔草.md",
     "book/how to speak.pdf",
     "MIT麻省理工学院教你《如何演讲》",
     "book/极客时间",
