@@ -38,7 +38,6 @@
 
 
 
-
 3、[中岛美雪](https://www.youtube.com/@miyukiofficial/videos)：
 
 4、[周杰倫 Jay Chou](https://www.youtube.com/@jaychou/videos)：
@@ -46,7 +45,7 @@
 
 不要苛求周杰伦了，希望他成为下一个音乐教父罗大佑是不现实，尽管他们都是中国台湾歌手。20世纪怎么能和 19 世纪 80 90年代比，我怀疑那个时代是中国最开民智的时代，是时代造就的罗大佑。时事造英雄，听听情情爱爱也不差，家国情怀也很好。
 
-
+5、[zardofficial](https://www.youtube.com/@zardofficial/videos)：
 ###  可不阅读项目
 
 [Transcript for Tucker Carlson: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom | Lex Fridman Podcast #414](https://lexfridman.com/tucker-carlson-transcript)：
