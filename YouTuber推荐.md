@@ -45,7 +45,8 @@
 
 不要苛求周杰伦了，希望他成为下一个音乐教父罗大佑是不现实，尽管他们都是中国台湾歌手。20世纪怎么能和 19 世纪 80 90年代比，我怀疑那个时代是中国最开民智的时代，是时代造就的罗大佑。时事造英雄，听听情情爱爱也不差，家国情怀也很好。
 
-5、[zardofficial](https://www.youtube.com/@zardofficial/videos)：
+5、[zardofficial](https://www.youtube.com/@zardofficial/videos)：推荐播放量 1000 w
+姐姐唱过 《灌篮高手》、《名侦探柯南》、《龙珠GT》、《中华小当家》的主题曲。那个时候的歌会让人感到欢快、青春，未来是有奔头的。
 ###  可不阅读项目
 
 [Transcript for Tucker Carlson: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom | Lex Fridman Podcast #414](https://lexfridman.com/tucker-carlson-transcript)：
@@ -65,6 +66,23 @@ Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it
 莫迪真得是政治家的感觉，带着面具的真诚，表面都是peace and  democracy，但是本质还是nationalism。印度是计划经济，民主政治。
 
 但是印度文化，传播真得很广，瑜伽、冥想、断食、黑塞和乔布斯
+
+
+
+###  白噪声
+
+1、[Healing Compass](https://www.youtube.com/@HealingCompass/videos)：推荐播放量 200 w
+视频基本都是雨声，比较适合快要入睡时，设置个 30分钟的定时，并且调到最低能听见的音量。听多了也会腻，可以换点别得听听。
+
+
+比较是
+
+
+
+
+
+
+
 
  <!-- 
 
