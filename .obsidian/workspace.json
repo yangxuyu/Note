@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "健身运动.md",
+                "file": "健康运动.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "健身运动"
+              "title": "健康运动"
             }
           },
           {
@@ -163,12 +163,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "博客.md",
+                "file": "固有的无兴趣.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "博客"
+              "title": "固有的无兴趣"
             }
           },
           {
@@ -438,6 +438,22 @@
   },
   "active": "316a29c2fe439606",
   "lastOpenFiles": [
+    "健康运动.md",
+    "固有的无兴趣.md",
+    "国内Up主推荐.md",
+    "英语.md",
+    "演讲.md",
+    "心愿单和拔草.md",
+    "未命名.md",
+    "人类记录.md",
+    "2025-08-11.md",
+    "2025-07-23.md",
+    "归档/收藏的文章.md",
+    "2025-07-15.md",
+    "2025-07-19.md",
+    "极客时间.md",
+    "YouTuber推荐.md",
+    "博客.md",
     "日记/2025-05-20.md",
     "book/how to speak.pdf",
     "book/公正：该如何做是好 (新版) = Justice Whats the right thing to do ([美] 迈克尔 · 桑德尔 (Michael J. Sandel) 著  朱慧玲 译) (Z-Library).pdf",
@@ -448,23 +464,8 @@
     "日记/2025-05-11.md",
     "云旅游.md",
     "油猴插件.md",
-    "英语.md",
-    "演讲.md",
     "摘抄.md",
-    "健身运动.md",
-    "固有的无兴趣.md",
-    "YouTuber推荐.md",
     "公开课.md",
-    "Chrome插件.md",
-    "沟通技巧.md",
-    "GitHub仓库评分.md",
-    "MarkDown超级教程.md",
-    "心愿单和拔草.md",
-    "人类记录.md",
-    "未命名.md",
-    "rfc.md",
-    "极客时间.md",
-    "国内Up主推荐.md",
     "MIT麻省理工学院教你《如何演讲》",
     "book/极客时间",
     "book",
