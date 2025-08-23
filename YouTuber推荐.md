@@ -67,6 +67,9 @@ Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it
 
 但是印度文化，传播真得很广，瑜伽、冥想、断食、黑塞和乔布斯
 
+###  英语
+
+1、[Ariannita la Gringa](https://www.youtube.com/@ariannitalagringa/videos)：推荐播放量 10 w (待看)
 
 
 ###  白噪声
