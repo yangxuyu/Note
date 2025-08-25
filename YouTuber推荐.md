@@ -19,10 +19,14 @@
 
 1、[ MrBeast 野兽先生](https://www.youtube.com/@MrBeast)：YouTube订阅量最多的频道，他的视频创意、制作成本真得太吸引人眼球：金钱挑战、慈善事业、赠送金钱。他的频道是当下最好的娱乐节目之一。播放量千万的视频在他的频道里都算是靠后了，上亿的视频都可以看看。
 
-2、[CCTV春晚](https://www.youtube.com/@CCTVGala/videos)：近些年来春晚已经越来越没意思，完全没看得必要了。但毕竟它曾经是汇集了中国最顶尖的文艺表演者，是中国人春节必看的节目。还是有很多经典的相声、小品、歌舞、魔术、杂技作品。相声：马三立、牛群；小品：陈佩斯朱时茂、赵丽蓉、赵本山宋丹丹、黄宏、冯巩、蔡明郭达潘长江、沈腾马丽；魔术：刘谦；歌舞杂技京剧也有不少好节目，但40多年的春晚好节目，以至不能一一列举完。
+2、[Dude Perfect](https://www.youtube.com/@dudeperfect/videos)：
 
-3、[NBA on TNT](https://www.youtube.com/@NBAonTNT/videos)：基本上只看Shaqtin' a Fool , 偶尔有些上百万播放的视频看看，一般不看tnt的分析，台柱子是麦基和戈贝尔。
+3、[CCTV春晚](https://www.youtube.com/@CCTVGala/videos)：近些年来春晚已经越来越没意思，完全没看得必要了。但毕竟它曾经是汇集了中国最顶尖的文艺表演者，是中国人春节必看的节目。还是有很多经典的相声、小品、歌舞、魔术、杂技作品。相声：马三立、牛群；小品：陈佩斯朱时茂、赵丽蓉、赵本山宋丹丹、黄宏、冯巩、蔡明郭达潘长江、沈腾马丽；魔术：刘谦；歌舞杂技京剧也有不少好节目，但40多年的春晚好节目，以至不能一一列举完。
 
+4、[NBA on TNT](https://www.youtube.com/@NBAonTNT/videos)：基本上只看Shaqtin' a Fool , 偶尔有些上百万播放的视频看看，一般不看tnt的分析，台柱子是麦基和戈贝尔。
+
+5、[ Enes Yilmazer](https://www.youtube.com/@EnesYilmazer/videos)：
+洛杉矶的 YouTuber。主要内容是世界各地的豪宅、游艇和房车体验！如果说中产是请得起月嫂，那富人是必须请佣人来打理豪宅。豪宅给人得感觉空间利用率很低，房屋设计就是为了空间感，留白。难怪美国人这么喜欢开party。
 ### 音乐
 
 1、[TheCranberriesTV](https://www.youtube.com/@thecranberriestv?app=desktop)：
@@ -69,15 +73,23 @@ Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it
 
 ###  英语
 
-1、[Ariannita la Gringa](https://www.youtube.com/@ariannitalagringa/videos)：推荐播放量 10 w (待看)
+1、[TED](https://www.youtube.com/@TED)：
+TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖的思想家和实干家在这里用 18 分钟（或更短）时间呈现他们一生中最精彩的演讲。寻找关于科技、娱乐和设计——以及科学、商业、全球问题、艺术等话题的演讲。
 
-
+2、[Ariannita la Gringa](https://www.youtube.com/@ariannitalagringa/videos)：推荐播放量 10 w (待看)
 ###  白噪声
 
-1、[Healing Compass](https://www.youtube.com/@HealingCompass/videos)：推荐播放量 200 w
+1、Rambalac：推荐播放量 50 w
+博主在日本到处闲逛，
+
+2、[Healing Compass](https://www.youtube.com/@HealingCompass/videos)：推荐播放量 200 w
 视频基本都是雨声，比较适合快要入睡时，设置个 30分钟的定时，并且调到最低能听见的音量。听多了也会腻，可以换点别得听听。
 
+3、[4K WALK](https://www.youtube.com/@4KWALK/videos)：推荐播放量 100 w
 
+
+4、[Solo Solo Travel](https://www.youtube.com/@SoloSoloTravel/videos)：推荐播放量 100 w
+各种独特的交通方式和住宿方式，包括夜班火车、新干线、渡轮和胶囊旅馆，在日本旅行。
 
 
 
