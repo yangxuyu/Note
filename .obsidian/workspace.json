@@ -205,12 +205,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "演讲.md",
+                "file": "归档/收藏的文章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "演讲"
+              "title": "收藏的文章"
+            }
+          },
+          {
+            "id": "57ce6602ef16ecfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-08-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-27"
             }
           },
           {
@@ -326,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -358,7 +372,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#一把梭：REST",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -409,7 +423,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/日记.md",
+                "file": "2025-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +433,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "日记 的反向链接列表"
+              "title": "2025-08-27 的反向链接列表"
             }
           },
           {
@@ -428,12 +442,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/日记.md",
+                "file": "2025-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "日记 的出链列表"
+              "title": "2025-08-27 的出链列表"
             }
           },
           {
@@ -443,7 +457,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -455,18 +471,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/日记.md"
+                "file": "2025-08-27.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日记 的大纲"
+              "title": "2025-08-27 的大纲"
+            }
+          },
+          {
+            "id": "22c44b81cf5fddcb",
+            "type": "leaf",
+            "state": {
+              "type": "infio-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Infio chat"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -476,37 +505,39 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "infio-copilot:打开 Infio Copilot": false
     }
   },
-  "active": "66c8ff140e6e60b1",
+  "active": "fad375a80a55e2e1",
   "lastOpenFiles": [
-    "英语.md",
-    "2025-08-17.md",
+    "2025-08-29.md",
     "2025-08-27.md",
-    "固有的无兴趣.md",
-    "YouTuber推荐.md",
+    "2025-08-11.md",
+    "_infio_prompts",
+    "计算机.md",
     "健康运动.md",
-    "唱歌.md",
-    "演讲.md",
-    "归档/恶魔奶爸英语学习方法（转）.md",
-    "归档/收藏的文章.md",
-    "归档/How To Speak.md",
-    "归档/MIT麻省理工学院教你《如何演讲》.md",
-    "rfc.md",
-    "常用配置.md",
-    "沟通技巧.md",
-    "国内Up主推荐.md",
     "人类记录.md",
+    "归档/收藏的文章.md",
+    "沟通技巧.md",
+    "固有的无兴趣.md",
+    "公开课.md",
+    "唱歌.md",
+    "YouTuber推荐.md",
+    "演讲.md",
+    "博客.md",
+    "极客时间.md",
+    "油猴插件.md",
     "未命名.md",
     "心愿单和拔草.md",
-    "油猴插件.md",
-    "云旅游.md",
-    "摘抄.md",
-    "博客.md",
-    "2025-07-23.md",
-    "2025-08-11.md",
-    "2025-07-15.md",
+    "英语.md",
+    "rfc.md",
+    "2025-08-17.md",
+    "归档/恶魔奶爸英语学习方法（转）.md",
+    "归档/How To Speak.md",
+    "归档/MIT麻省理工学院教你《如何演讲》.md",
+    "常用配置.md",
+    "国内Up主推荐.md",
     "book/how to speak.pdf",
     "book/公正：该如何做是好 (新版) = Justice Whats the right thing to do ([美] 迈克尔 · 桑德尔 (Michael J. Sandel) 著  朱慧玲 译) (Z-Library).pdf",
     "MIT麻省理工学院教你《如何演讲》",
@@ -515,7 +546,6 @@
     "code",
     "心愿单",
     "归档",
-    "Note.git~",
-    "未命名 1"
+    "Note.git~"
   ]
 }

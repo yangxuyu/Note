@@ -91,6 +91,10 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 4、[Solo Solo Travel](https://www.youtube.com/@SoloSoloTravel/videos)：推荐播放量 100 w
 各种独特的交通方式和住宿方式，包括夜班火车、新干线、渡轮和胶囊旅馆，在日本旅行。
 
+5、[The Relaxed Guy](https://www.youtube.com/@therelaxedguy/videos)：推荐播放量 100 w
+
+
+
 
 
 
