@@ -83,8 +83,8 @@
 10、[rfc3954 -Cisco Systems NetFlow Services Export Version 9](https://www.rfc-editor.org/rfc/rfc3954)
 
 
- ###  其他
-
+ 11、[IP Payload Compression Protocol (IPComp)](https://datatracker.ietf.org/doc/html/rfc3173)：
+ IP有效负载压缩协议，又名无损压缩，还名数据消冗余。
 
 
 

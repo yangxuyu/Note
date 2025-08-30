@@ -219,12 +219,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-08-27.md",
+                "file": "rfc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-27"
+              "title": "rfc"
             }
           },
           {
@@ -423,7 +423,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-08-27.md",
+                "file": "rfc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -433,7 +433,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-08-27 的反向链接列表"
+              "title": "rfc 的反向链接列表"
             }
           },
           {
@@ -442,12 +442,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-08-27.md",
+                "file": "rfc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-08-27 的出链列表"
+              "title": "rfc 的出链列表"
             }
           },
           {
@@ -471,27 +471,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-08-27.md",
+                "file": "rfc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-08-27 的大纲"
-            }
-          },
-          {
-            "id": "22c44b81cf5fddcb",
-            "type": "leaf",
-            "state": {
-              "type": "infio-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Infio chat"
+              "title": "rfc 的大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -506,13 +496,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "infio-copilot:打开 Infio Copilot": false
+      "infio-copilot:打开 Infio Copilot": false,
+      "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "fad375a80a55e2e1",
+  "active": "3845a5dc2c4ab901",
   "lastOpenFiles": [
-    "2025-08-29.md",
     "2025-08-27.md",
+    "2025-08-29.md",
     "2025-08-11.md",
     "_infio_prompts",
     "计算机.md",
