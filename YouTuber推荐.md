@@ -77,22 +77,25 @@ Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it
 TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖的思想家和实干家在这里用 18 分钟（或更短）时间呈现他们一生中最精彩的演讲。寻找关于科技、娱乐和设计——以及科学、商业、全球问题、艺术等话题的演讲。
 
 2、[Ariannita la Gringa](https://www.youtube.com/@ariannitalagringa/videos)：推荐播放量 10 w (待看)
+
 ###  白噪声
 
-1、Rambalac：推荐播放量 50 w
-博主在日本到处闲逛，
+Nomadic Ambience
 
-2、[Healing Compass](https://www.youtube.com/@HealingCompass/videos)：推荐播放量 200 w
+1、[Healing Compass](https://www.youtube.com/@HealingCompass/videos)：推荐播放量 200 w
 视频基本都是雨声，比较适合快要入睡时，设置个 30分钟的定时，并且调到最低能听见的音量。听多了也会腻，可以换点别得听听。
 
-3、[4K WALK](https://www.youtube.com/@4KWALK/videos)：推荐播放量 100 w
+2、[The Relaxed Guy](https://www.youtube.com/@therelaxedguy/videos)：推荐播放量 100 w
+视频基本也是雨声，
 
+3、[Solo Solo Travel](https://www.youtube.com/@SoloSoloTravel/videos)：推荐播放量 100 w，大约 30 个小时
+各种独特的交通方式和住宿方式，包括夜班火车、新干线、渡轮和胶囊旅馆，在日本旅行。在交通工具上为了舒适度花大价钱，总会感到不值，但当做白噪声倒是没什么可挑剔的。
 
-4、[Solo Solo Travel](https://www.youtube.com/@SoloSoloTravel/videos)：推荐播放量 100 w
-各种独特的交通方式和住宿方式，包括夜班火车、新干线、渡轮和胶囊旅馆，在日本旅行。
+4、[Rambalac](https://www.youtube.com/@Rambalac/videos)：推荐播放量 100 w，大约 15 个小时
+第一视角在日本到处闲逛。
 
-5、[The Relaxed Guy](https://www.youtube.com/@therelaxedguy/videos)：推荐播放量 100 w
-
+5、[4K WALK](https://www.youtube.com/@4KWALK/videos)：推荐播放量 50 w，大约 12 个小时
+主要是第一视角在沙滩漫步，能感受到外国人在沙滩开party，真的很嗨。
 
 
 

@@ -84,7 +84,7 @@
 
 
  11、[IP Payload Compression Protocol (IPComp)](https://datatracker.ietf.org/doc/html/rfc3173)：
- IP有效负载压缩协议，又名无损压缩，还名数据消冗余。
+ IP有效负载压缩协议，又名无损压缩，还名数据消冗余。主要内容其实很少，outbound压缩报文，inbound解压缩报文，IPv4/Ipv6报文头修改，IPComp头，安全是IPsec负责。
 
 
 
