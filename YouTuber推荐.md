@@ -91,10 +91,12 @@ Nomadic Ambience
 3、[Solo Solo Travel](https://www.youtube.com/@SoloSoloTravel/videos)：推荐播放量 100 w，大约 30 个小时
 各种独特的交通方式和住宿方式，包括夜班火车、新干线、渡轮和胶囊旅馆，在日本旅行。在交通工具上为了舒适度花大价钱，总会感到不值，但当做白噪声倒是没什么可挑剔的。
 
-4、[Rambalac](https://www.youtube.com/@Rambalac/videos)：推荐播放量 100 w，大约 15 个小时
+4、[쏘베리 Ssoberry](https://www.youtube.com/@ssoberrycamping/videos)：
+
+5、[Rambalac](https://www.youtube.com/@Rambalac/videos)：推荐播放量 100 w，大约 15 个小时
 第一视角在日本到处闲逛。
 
-5、[4K WALK](https://www.youtube.com/@4KWALK/videos)：推荐播放量 50 w，大约 12 个小时
+6、[4K WALK](https://www.youtube.com/@4KWALK/videos)：推荐播放量 50 w，大约 12 个小时
 主要是第一视角在沙滩漫步，能感受到外国人在沙滩开party，真的很嗨。
 
 
