@@ -261,12 +261,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序员.md",
+                "file": "2025-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "程序员"
+              "title": "2025-09-14"
             }
           },
           {
@@ -513,13 +513,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序员.md",
+                "file": "2025-09-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "程序员 的大纲"
+              "title": "2025-09-14 的大纲"
             }
           }
         ],
@@ -538,12 +538,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "infio-copilot:打开 Infio Copilot": false,
       "sidebar-highlights:Open highlights": false
     }
   },
   "active": "ec03bcea7672f73e",
   "lastOpenFiles": [
+    "程序员.md",
+    "2025-09-14.md",
     "唱歌.md",
     "公开课.md",
     "归档/收藏的文章.md",
@@ -563,14 +564,12 @@
     "归档/How To Speak.md",
     "健康运动.md",
     "日麻.md",
-    "程序员.md",
     "2025-07-15.md",
     "2025-08-27.md",
     "2025-08-29.md",
     "2025-08-11.md",
     "_infio_prompts",
     "计算机.md",
-    "人类记录.md",
     "book/how to speak.pdf",
     "book/公正：该如何做是好 (新版) = Justice Whats the right thing to do ([美] 迈克尔 · 桑德尔 (Michael J. Sandel) 著  朱慧玲 译) (Z-Library).pdf",
     "MIT麻省理工学院教你《如何演讲》",
