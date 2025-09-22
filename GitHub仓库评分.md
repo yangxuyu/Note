@@ -25,13 +25,17 @@
  
 
 
-### 其它
+### 资源集散地
 
-6、 [awesome](https://github.com/sindresorhus/awesome)
+6、[awesome](https://github.com/sindresorhus/awesome)：
 
-7、 [awesome-go](https://github.com/avelino/awesome-go)：
 
-8、 [awesome-c](https://github.com/oz123/awesome-c)
+7、[awesome-go](https://github.com/avelino/awesome-go)：
+
+8、[awesome-cpp](https://github.com/fffaraz/awesome-cpp)：
+
+9、 [awesome-c](https://github.com/oz123/awesome-c)
+C 语言框架、库等资源。perf，gdb，Clang，GCC
 
 
 35、<!-- -->
