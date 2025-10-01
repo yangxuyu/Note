@@ -33,9 +33,12 @@
 7、[awesome-go](https://github.com/avelino/awesome-go)：
 
 8、[awesome-cpp](https://github.com/fffaraz/awesome-cpp)：
+C++ 标准库、STL、Qt、WTL、pytorch、TensorFlow、GoogleTest、grpc、[opencv](https://github.com/opencv/opencv)、lua、[fmt](https://github.com/fmtlib/fmt)
+
+
 
 9、 [awesome-c](https://github.com/oz123/awesome-c)
-C 语言框架、库等资源。perf，gdb，Clang，GCC
+C 语言框架、库等资源。perf、gdb、Clang、GCC、git、[dpdk](https://github.com/DPDK/dpdk) 这几个算是C比较出名的库了。
 
 
 35、<!-- -->
