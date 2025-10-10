@@ -261,12 +261,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-09.md",
+                "file": "YouTuber推荐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-09"
+              "title": "YouTuber推荐"
             }
           },
           {
@@ -499,13 +499,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-10-09.md",
+                "file": "YouTuber推荐.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-10-09 的大纲"
+              "title": "YouTuber推荐 的大纲"
             }
           }
         ],
@@ -529,13 +529,13 @@
   },
   "active": "ec03bcea7672f73e",
   "lastOpenFiles": [
-    "2025-10-01.md",
+    "收藏的文章.md",
     "2025-10-09.md",
+    "2025-10-01.md",
     "面相学.md",
     "日麻.md",
     "YouTuber推荐.md",
     "人类记录.md",
-    "收藏的文章.md",
     "GitHub仓库评分.md",
     "心愿单和拔草.md",
     "极客时间.md",
