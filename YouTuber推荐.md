@@ -137,7 +137,7 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 
 5、[Nomadic Ambience](https://www.youtube.com/@NomadicAmbience)：
 
-6、[쏘베리 Ssoberry](https://www.youtube.com/@ssoberrycamping/videos)：
+6、[쏘베리 Ssoberry](https://www.youtube.com/@ssoberrycamping/videos)：：推荐播放量 100 w  (待看)
 
 7、[Rambalac](https://www.youtube.com/@Rambalac/videos)：推荐播放量 100 w，大约 15 个小时
 第一视角在日本到处闲逛。
