@@ -261,12 +261,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouTuber推荐.md",
+                "file": "云旅游.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YouTuber推荐"
+              "title": "云旅游"
             }
           },
           {
@@ -499,13 +499,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YouTuber推荐.md",
+                "file": "云旅游.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "YouTuber推荐 的大纲"
+              "title": "云旅游 的大纲"
             }
           }
         ],
@@ -529,12 +529,13 @@
   },
   "active": "ec03bcea7672f73e",
   "lastOpenFiles": [
+    "程序员练级攻略.md",
     "收藏的文章.md",
+    "YouTuber推荐.md",
     "2025-10-09.md",
     "2025-10-01.md",
     "面相学.md",
     "日麻.md",
-    "YouTuber推荐.md",
     "人类记录.md",
     "GitHub仓库评分.md",
     "心愿单和拔草.md",
@@ -543,7 +544,6 @@
     "固有的无兴趣.md",
     "沟通技巧.md",
     "公开课.md",
-    "程序员练级攻略.md",
     "摘抄.md",
     "油猴插件.md",
     "云旅游.md",
