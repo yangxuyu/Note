@@ -135,7 +135,7 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 4、[Solo Solo Travel](https://www.youtube.com/@SoloSoloTravel/videos)：推荐播放量 100 w，大约 30 个小时
 各种独特的交通方式和住宿方式，包括夜班火车、新干线、渡轮和胶囊旅馆，主要在日本和欧美旅行，路上的风景是最好看的，白人饭和居住环境倒是一般。在交通工具上为了舒适度花大价钱，总会感到不值，但当做白噪声倒是没什么可挑剔的。
 
-5、[Nomadic Ambience](https://www.youtube.com/@NomadicAmbience)：
+5、[Nomadic Ambience](https://www.youtube.com/@NomadicAmbience)：(待看)
 
 6、[쏘베리 Ssoberry](https://www.youtube.com/@ssoberrycamping/videos)：：推荐播放量 100 w  (待看)
 
@@ -147,6 +147,11 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 
 9、[4K WALK](https://www.youtube.com/@4KWALK/videos)：推荐播放量 50 w，大约 12 个小时
 主要是第一视角在沙滩漫步，能感受到外国人在沙滩开party，真的很嗨。
+
+
+
+###  未分类
+
 
 
 
