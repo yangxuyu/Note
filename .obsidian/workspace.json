@@ -261,12 +261,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序员练级攻略.md",
+                "file": "书评.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "程序员练级攻略"
+              "title": "书评"
             }
           },
           {
@@ -499,13 +499,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序员练级攻略.md",
+                "file": "书评.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "程序员练级攻略 的大纲"
+              "title": "书评 的大纲"
             }
           }
         ],
@@ -529,6 +529,14 @@
   },
   "active": "ec03bcea7672f73e",
   "lastOpenFiles": [
+    "云旅游.md",
+    "收藏的文章.md",
+    "2025-11-04.md",
+    "YouTuber推荐.md",
+    "书评.md",
+    "心愿单和拔草.md",
+    "程序员练级攻略.md",
+    "2025-11-07.md",
     "唱歌.md",
     "常用配置.md",
     "2025-11-01.md",
@@ -541,20 +549,12 @@
     "2025-07-23.md",
     "2025-07-19.md",
     "2025-07-15.md",
-    "YouTuber推荐.md",
     "().md",
-    "收藏的文章.md",
-    "程序员练级攻略.md",
     "rfc.md",
     "健康运动.md",
-    "云旅游.md",
-    "书评.md",
-    "心愿单和拔草.md",
     "Chrome插件.md",
     "摘抄.md",
     "油猴插件.md",
-    "固有的无兴趣.md",
-    "2025-11-07.md",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
     "book/rfc",
