@@ -126,10 +126,11 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 
 1、[Lofi Girl](https://www.youtube.com/@LofiGirl/videos)：
 
-2、[Healing Compass](https://www.youtube.com/@HealingCompass/videos)：推荐播放量 200 w
-视频基本都是雨声，比较适合快要入睡时，设置个 30分钟的定时，并且调到最低能听见的音量。听多了也会腻，可以换点别得听听。
+2、[Kirin Camp](https://www.youtube.com/@KirinCamp/videos)：推荐播放量 200 w，大约 16 个小时
+雨雪天在外面露营
 
-3、[The Relaxed Guy](https://www.youtube.com/@therelaxedguy/videos)：推荐播放量 100 w
+
+3、[The Relaxed Guy](https://www.youtube.com/@therelaxedguy/videos)：推荐播放量 200 w，大约 3 个小时
 视频基本也是雨声，
 
 4、[Solo Solo Travel](https://www.youtube.com/@SoloSoloTravel/videos)：推荐播放量 100 w，大约 30 个小时
@@ -137,7 +138,7 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 
 5、[Nomadic Ambience](https://www.youtube.com/@NomadicAmbience)：(待看)
 
-6、[쏘베리 Ssoberry](https://www.youtube.com/@ssoberrycamping/videos)：：推荐播放量 100 w  (待看)
+6、[쏘베리 Ssoberry](https://www.youtube.com/@ssoberrycamping/videos)：推荐播放量 100 w  (待看)
 
 7、[Rambalac](https://www.youtube.com/@Rambalac/videos)：推荐播放量 100 w，大约 15 个小时
 第一视角在日本到处闲逛。他的视频反而让我感觉日本只是东京、大阪等几个巨型城市有高楼大厦，其他的城市都不高，到处是一户建，平房，楼房都很少，都很日式乡村风，甚至大城市的郊区人都很少。就是日本又拥挤又地广人稀。
@@ -148,7 +149,8 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 9、[4K WALK](https://www.youtube.com/@4KWALK/videos)：推荐播放量 50 w，大约 12 个小时
 主要是第一视角在沙滩漫步，能感受到外国人在沙滩开party，真的很嗨。
 
-
+10、[Healing Compass](https://www.youtube.com/@HealingCompass/videos)：推荐播放量 200 w
+视频基本都是雨声，比较适合快要入睡时，设置个 30分钟的定时，并且调到最低能听见的音量。听多了也会腻，可以换点别得听听。
 
 ###  未分类
 
