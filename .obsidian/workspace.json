@@ -289,12 +289,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y0-好问题和坏问题.md",
+                "file": "Y3-书评.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y0-好问题和坏问题"
+              "title": "Y3-书评"
             }
           },
           {
@@ -414,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#一把梭：REST",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -513,13 +513,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y0-好问题和坏问题.md",
+                "file": "Y3-书评.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y0-好问题和坏问题 的大纲"
+              "title": "Y3-书评 的大纲"
             }
           }
         ],
@@ -543,18 +543,18 @@
   },
   "active": "0b1cc8d875da01ca",
   "lastOpenFiles": [
-    "README.md",
-    "油猴插件.md",
-    "健康运动.md",
-    "心愿单和拔草.md",
-    "技术人员的发展之路.md",
     "Y1-收藏的文章.md",
-    "rfc.md",
-    "Y0-好问题和坏问题.md",
-    "固有的无兴趣.md",
-    "计算机.md",
     "Y3-书评.md",
     "Y2-云旅游.md",
+    "健康运动.md",
+    "心愿单和拔草.md",
+    "Y0-好问题和坏问题.md",
+    "README.md",
+    "油猴插件.md",
+    "技术人员的发展之路.md",
+    "rfc.md",
+    "固有的无兴趣.md",
+    "计算机.md",
     "演讲.md",
     "归档/自用模板1.md",
     "归档/How To Speak.md",
