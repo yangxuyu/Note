@@ -92,7 +92,7 @@ vlog是他带起来的，主要拍纽约。
 	Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it once you have kids. It’s like it’s chicken in the egg, but it’s actually not. When you have responsibility, when you have no… This is true of men, I’m not sure if true of women, but it’s definitely true of men, you will not achieve until you have no choice. Because I always think of men, men do nothing until they have to, but once they have to, they will do anything. That is true.
 
 * [Transcript for Narendra Modi: Prime Minister of India – Power, Democracy, War & Peace | Lex Fridman Podcast #460](https://lexfridman.com/narendra-modi-transcript)：莫迪真得是政治家的感觉，带着面具的真诚，表面都是peace and  democracy，但是本质还是nationalism。印度是计划经济，民主政治。印度文化传播真得很广，瑜伽、冥想、断食、黑塞和乔布斯。
-* [Transcript for Keyu Jin: China’s Economy, Tariffs, Trade, Trump, Communism & Capitalism | Lex Fridman Podcast #477](https://lexfridman.com/keyu-jin-transcript): 就事论事只说这次访谈。金刻羽的结论其实很苍白，她并没有说到中国经济的根本，只是在给西方解释，她的主要经济观点是鼓吹消费，但是消费的前提条件一个都不说。真得在循环论证：是消费造就经济强国，还是经济强国自然而然就会消费。
+* [Transcript for Keyu Jin: China’s Economy, Tariffs, Trade, Trump, Communism & Capitalism | Lex Fridman Podcast #477](https://lexfridman.com/keyu-jin-transcript): 就事论事只说这次访谈。金刻羽的结论其实很苍白，她并没有说到中国经济的根本，只是在给西方解释。她的主要经济观点是鼓吹消费，但是消费的前提条件一个都不说。真得在循环论证：是消费造就经济强国，还是经济强国自然而然就会消费。
 
 
 
