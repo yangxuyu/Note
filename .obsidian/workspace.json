@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y5-YouTuber推荐.md",
+                "file": "Y2-云旅游.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y5-YouTuber推荐"
+              "title": "Y2-云旅游"
             }
           },
           {
@@ -513,13 +513,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y5-YouTuber推荐.md",
+                "file": "Y2-云旅游.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y5-YouTuber推荐 的大纲"
+              "title": "Y2-云旅游 的大纲"
             }
           }
         ],
@@ -543,8 +543,9 @@
   },
   "active": "d8a813a39beae265",
   "lastOpenFiles": [
-    "Y0-好问题和坏问题.md",
     "Y1-收藏的文章.md",
+    "Y5-YouTuber推荐.md",
+    "Y0-好问题和坏问题.md",
     "计算机.md",
     "油猴插件.md",
     "Chrome插件.md",
@@ -568,7 +569,6 @@
     "英语.md",
     "Y3-书评.md",
     "Y2-云旅游.md",
-    "2025-12-13.md",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
     "book/rfc",
