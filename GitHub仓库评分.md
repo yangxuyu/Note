@@ -19,6 +19,14 @@
 
 3、[self-consistent-coder](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhangchenchen/self-consistent-coder)：《自洽的程序员》。这是一本关于程序员如何管理自己的情绪和职业心态的书籍，帮助程序员从负面情绪中解脱出来，更加坦然地面对自己的内心，从而实现“自洽“。
 
+
+[expert_readed_books](https://github.com/0voice/expert_readed_books)：可读可不读
+推荐工程师合适的书籍
+
+
+[ddia](https://github.com/Vonng/ddia)： 推荐
+设计数据密集型应用 - 中文翻译版
+
 ###  可不阅读项目
 4、[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
 
