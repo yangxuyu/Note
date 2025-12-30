@@ -27,6 +27,11 @@
 [ddia](https://github.com/Vonng/ddia)： 推荐
 设计数据密集型应用 - 中文翻译版
 
+
+[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)：非常推荐
+教你如何正确的提出技术问题
+
+
 ###  可不阅读项目
 4、[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
 
