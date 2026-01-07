@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y3-书评.md",
+                "file": "2026-01-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y3-书评"
+              "title": "2026-01-07"
             }
           },
           {
@@ -513,13 +513,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y3-书评.md",
+                "file": "2026-01-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y3-书评 的大纲"
+              "title": "2026-01-07 的大纲"
             }
           }
         ],
@@ -543,8 +543,9 @@
   },
   "active": "d8a813a39beae265",
   "lastOpenFiles": [
-    "Y4-程序员练级攻略.md",
     "Y3-书评.md",
+    "2026-01-07.md",
+    "Y4-程序员练级攻略.md",
     "Y2-云旅游.md",
     "Y1-收藏的文章.md",
     "Y0-好问题和坏问题.md",
@@ -568,7 +569,6 @@
     "README.md",
     "rfc.md",
     "todo list.md",
-    "2025-08-11.md",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
     "book/rfc",
