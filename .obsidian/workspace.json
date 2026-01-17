@@ -46,6 +46,20 @@
             }
           },
           {
+            "id": "3102122b6f62e7c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y4-程序员练级攻略.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Y4-程序员练级攻略"
+            }
+          },
+          {
             "id": "95d2a0cbf34feccc",
             "type": "leaf",
             "state": {
@@ -382,7 +396,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -449,7 +463,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.5
   },
   "right": {
     "id": "2a79451dfd4c8aac",
@@ -513,13 +527,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2-云旅游.md",
+                "file": "Y4-程序员练级攻略.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y2-云旅游 的大纲"
+              "title": "Y4-程序员练级攻略 的大纲"
+            }
+          },
+          {
+            "id": "18fbe711effe882d",
+            "type": "leaf",
+            "state": {
+              "type": "infio-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Infio chat"
+            }
+          },
+          {
+            "id": "25a89cb872491d76",
+            "type": "leaf",
+            "state": {
+              "type": "highlights-sidebar",
+              "state": {},
+              "icon": "highlighter",
+              "title": "Highlights"
             }
           }
         ],
@@ -527,34 +561,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "sidebar-highlights:Open highlights": false
+      "sidebar-highlights:Open highlights": false,
+      "infio-copilot:打开 Infio Copilot": false
     }
   },
-  "active": "d8a813a39beae265",
+  "active": "3102122b6f62e7c5",
   "lastOpenFiles": [
+    "2026-01-07.md",
+    "Y4-程序员练级攻略.md",
     "Y0-自我教育和再教育.md",
+    "Y1-收藏的文章.md",
+    "Y3-书评.md",
+    "Y2-云旅游.md",
     "Y0-好问题和坏问题.md",
     "常用配置.md",
     "演讲.md",
-    "Y1-收藏的文章.md",
     "Y4-英语练级攻略.md",
     "2026-01-12.md",
     "公开课.md",
-    "2026-01-07.md",
-    "Y3-书评.md",
-    "Y4-程序员练级攻略.md",
-    "Y2-云旅游.md",
     "健康运动.md",
     "计算机.md",
     "极客时间.md",

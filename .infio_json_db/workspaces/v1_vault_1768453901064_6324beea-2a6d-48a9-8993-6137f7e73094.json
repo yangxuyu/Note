@@ -1,0 +1,23 @@
+{
+  "id": "6324beea-2a6d-48a9-8993-6137f7e73094",
+  "name": "vault",
+  "content": [
+    {
+      "type": "folder",
+      "content": "/"
+    }
+  ],
+  "chatHistory": [
+    {
+      "id": "893885da-7577-44b1-a6ba-355a1d40a43b",
+      "title": "大庆的gdp排名"
+    }
+  ],
+  "metadata": {
+    "isDefault": true,
+    "description": "all vault as workspace"
+  },
+  "createdAt": 1768453856414,
+  "updatedAt": 1768453901064,
+  "schemaVersion": 1
+}

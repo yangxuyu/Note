@@ -52,9 +52,9 @@
   },
   "googleProvider": {
     "name": "Google",
-    "apiKey": "",
+    "apiKey": "AIzaSyAl876Y1jQqSvhjseFs3MS66vyX3PLLF64",
     "baseUrl": "",
-    "useCustomUrl": false,
+    "useCustomUrl": true,
     "models": []
   },
   "ollamaProvider": {
@@ -104,7 +104,7 @@
   "collectedInsightModels": [],
   "collectedApplyModels": [],
   "collectedEmbeddingModels": [],
-  "activeProviderTab": "Google",
+  "activeProviderTab": "Grok",
   "chatModelProvider": "Infio",
   "chatModelId": "",
   "insightModelProvider": "Infio",
@@ -160,8 +160,8 @@
   "systemPrompt": "",
   "ragOptions": {
     "filesystem": "opfs",
-    "batchSize": 32,
     "chunkSize": 500,
+    "batchSize": 32,
     "thresholdTokens": 8192,
     "minSimilarity": 0,
     "limit": 10,

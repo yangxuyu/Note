@@ -1,0 +1,61 @@
+{
+  "id": "893885da-7577-44b1-a6ba-355a1d40a43b",
+  "title": "大庆的gdp排名",
+  "messages": [
+    {
+      "role": "user",
+      "applyStatus": 0,
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "大庆的gdp排名",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "<task>\n大庆的gdp排名\n</task>\n\n<environment_details>\n# Current File\nY2-云旅游.md\n\n# Current Workspace\nNote (entire vault)\n\n# Assistant & User State\n## Current Time\n2026/1/15 下午1:11:40 (Asia/Shanghai, UTC+8:00)\n\n## Current Mode\n<slug>ask</slug>\n<name>Ask</name>\n</environment_details>"
+        }
+      ],
+      "id": "2bf60160-708e-43a0-9cdf-de1fcf6c3bc9",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "applyStatus": 0,
+      "content": "",
+      "reasoningContent": "",
+      "id": "ea664982-0141-471e-bffc-81e04da1f431",
+      "metadata": {}
+    }
+  ],
+  "createdAt": 1768453901051,
+  "updatedAt": 1768454182501,
+  "schemaVersion": 2,
+  "workspace": "vault"
+}
