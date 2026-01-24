@@ -51,12 +51,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "健康运动.md",
+                "file": "2026-01-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "健康运动"
+              "title": "2026-01-25"
+            }
+          },
+          {
+            "id": "fd7717d9e2a3f3d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
             }
           },
           {
@@ -396,7 +408,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -527,13 +539,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "健康运动.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "健康运动 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -576,8 +587,11 @@
       "infio-copilot:打开 Infio Copilot": false
     }
   },
-  "active": "3102122b6f62e7c5",
+  "active": "fd7717d9e2a3f3d7",
   "lastOpenFiles": [
+    "Y2-云旅游.md",
+    "2026-01-25.md",
+    "健康运动.md",
     "计算机.md",
     "公开课.md",
     "沟通技巧.md",
@@ -588,7 +602,6 @@
     "GitHub仓库评分.md",
     "Y0-好问题和坏问题.md",
     "Y3-书评.md",
-    "Y2-云旅游.md",
     "Y0-自我教育和再教育.md",
     "摘抄.md",
     "极客时间.md",
@@ -600,10 +613,8 @@
     "演讲.md",
     "Y4-英语练级攻略.md",
     "2026-01-12.md",
-    "健康运动.md",
     "英语.md",
     "固有的无兴趣.md",
-    "归档/知乎.md",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
     "book/rfc",

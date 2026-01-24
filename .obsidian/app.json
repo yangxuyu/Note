@@ -3,5 +3,6 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "openBehavior": "daily"
 }
