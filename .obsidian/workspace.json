@@ -63,12 +63,14 @@
             "id": "fd7717d9e2a3f3d7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Y3-公开课.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "icon": "lucide-file",
+              "title": "Y3-公开课"
             }
           },
           {
@@ -539,12 +541,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y3-公开课.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Y3-公开课 的大纲"
             }
           },
           {
@@ -590,26 +593,26 @@
   "active": "fd7717d9e2a3f3d7",
   "lastOpenFiles": [
     "Y2-云旅游.md",
+    "Y3-公开课.md",
+    "沟通技巧.md",
+    "Y3-书评.md",
+    "计算机.md",
+    "摘抄.md",
+    "常用配置.md",
     "2026-01-25.md",
     "健康运动.md",
-    "计算机.md",
-    "公开课.md",
-    "沟通技巧.md",
     "唱歌.md",
     "2025-07-23.md",
     "2025-08-11.md",
     "2025-08-29.md",
     "GitHub仓库评分.md",
     "Y0-好问题和坏问题.md",
-    "Y3-书评.md",
     "Y0-自我教育和再教育.md",
-    "摘抄.md",
     "极客时间.md",
     "MarkDown超级教程.md",
     "Y4-程序员练级攻略.md",
     "2026-01-07.md",
     "Y1-收藏的文章.md",
-    "常用配置.md",
     "演讲.md",
     "Y4-英语练级攻略.md",
     "2026-01-12.md",
