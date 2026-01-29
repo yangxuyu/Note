@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-25.md",
+                "file": "Y2-云旅游.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-25"
+              "title": "Y2-云旅游"
             }
           },
           {
@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y3-公开课.md",
+                "file": "Y0-好问题和坏问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y3-公开课"
+              "title": "Y0-好问题和坏问题"
             }
           },
           {
@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub仓库评分.md",
+                "file": "Y0-好问题和坏问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub仓库评分"
+              "title": "Y0-好问题和坏问题"
             }
           },
           {
@@ -410,7 +410,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -541,13 +541,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y3-公开课.md",
+                "file": "Y0-好问题和坏问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y3-公开课 的大纲"
+              "title": "Y0-好问题和坏问题 的大纲"
             }
           },
           {
@@ -590,34 +590,35 @@
       "infio-copilot:打开 Infio Copilot": false
     }
   },
-  "active": "fd7717d9e2a3f3d7",
+  "active": "95d2a0cbf34feccc",
   "lastOpenFiles": [
-    "Y2-云旅游.md",
-    "Y3-公开课.md",
-    "沟通技巧.md",
+    "Y0-自我教育和再教育.md",
+    "固有的无兴趣.md",
+    "Y0-好问题和坏问题.md",
+    "2026-01-25.md",
+    "Y4-英语练级攻略.md",
+    "Y5-YouTuber推荐.md",
+    "todo list.md",
     "Y3-书评.md",
+    "Y3-公开课.md",
+    "GitHub仓库评分.md",
+    "().md",
+    "book/125-questions-exploration-and-discovery.pdf",
+    "Y2-云旅游.md",
+    "沟通技巧.md",
     "计算机.md",
     "摘抄.md",
     "常用配置.md",
-    "2026-01-25.md",
     "健康运动.md",
     "唱歌.md",
     "2025-07-23.md",
     "2025-08-11.md",
     "2025-08-29.md",
-    "GitHub仓库评分.md",
-    "Y0-好问题和坏问题.md",
-    "Y0-自我教育和再教育.md",
     "极客时间.md",
     "MarkDown超级教程.md",
     "Y4-程序员练级攻略.md",
     "2026-01-07.md",
     "Y1-收藏的文章.md",
-    "演讲.md",
-    "Y4-英语练级攻略.md",
-    "2026-01-12.md",
-    "英语.md",
-    "固有的无兴趣.md",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
     "book/rfc",
@@ -626,7 +627,6 @@
     "book/how to speak.pdf",
     "book/公正：该如何做是好 (新版) = Justice Whats the right thing to do ([美] 迈克尔 · 桑德尔 (Michael J. Sandel) 著  朱慧玲 译) (Z-Library).pdf",
     "MIT麻省理工学院教你《如何演讲》",
-    "book/极客时间",
-    "book"
+    "book/极客时间"
   ]
 }
