@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2-云旅游.md",
+                "file": "Y3-云旅游.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y2-云旅游"
+              "title": "Y3-云旅游"
             }
           },
           {
@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y0-好问题和坏问题.md",
+                "file": "Y1-好问题和坏问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y0-好问题和坏问题"
+              "title": "Y1-好问题和坏问题"
             }
           },
           {
@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y0-好问题和坏问题.md",
-                "mode": "source",
+                "file": "Y4-书评.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y0-好问题和坏问题"
+              "title": "Y4-书评"
             }
           },
           {
@@ -541,13 +541,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y0-好问题和坏问题.md",
+                "file": "Y4-书评.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y0-好问题和坏问题 的大纲"
+              "title": "Y4-书评 的大纲"
             }
           },
           {
@@ -592,19 +592,23 @@
   },
   "active": "95d2a0cbf34feccc",
   "lastOpenFiles": [
-    "Y0-自我教育和再教育.md",
+    "Y4-公开课.md",
+    "Y3-云旅游.md",
+    "Y4-书评.md",
+    "Y0-todo.md",
+    "Y2-收藏的文章.md",
+    "Y1-好问题和坏问题.md",
+    "归档/自用模板1.md",
+    "Y1-自我教育和再教育.md",
+    "Y5-程序员练级攻略.md",
+    "Y5-英语练级攻略.md",
+    "Y6-YouTuber推荐.md",
     "固有的无兴趣.md",
-    "Y0-好问题和坏问题.md",
     "2026-01-25.md",
-    "Y4-英语练级攻略.md",
-    "Y5-YouTuber推荐.md",
     "todo list.md",
-    "Y3-书评.md",
-    "Y3-公开课.md",
     "GitHub仓库评分.md",
     "().md",
     "book/125-questions-exploration-and-discovery.pdf",
-    "Y2-云旅游.md",
     "沟通技巧.md",
     "计算机.md",
     "摘抄.md",
@@ -615,10 +619,6 @@
     "2025-08-11.md",
     "2025-08-29.md",
     "极客时间.md",
-    "MarkDown超级教程.md",
-    "Y4-程序员练级攻略.md",
-    "2026-01-07.md",
-    "Y1-收藏的文章.md",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
     "book/rfc",
