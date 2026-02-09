@@ -91,12 +91,14 @@
             "id": "957fcc556ebcfd19",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Y3-云旅游.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "icon": "lucide-file",
+              "title": "Y3-云旅游"
             }
           },
           {
@@ -553,12 +555,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y3-云旅游.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Y3-云旅游 的大纲"
             }
           },
           {
@@ -603,32 +606,32 @@
   },
   "active": "957fcc556ebcfd19",
   "lastOpenFiles": [
-    "rfc.md",
-    "2026-02-07.md",
-    "Y0-todo list.md",
-    "Y4-书评.md",
-    "Y2-收藏的文章.md",
+    "Y4-公开课.md",
     "Y1-自我教育和再教育.md",
     "Y1-好问题和坏问题.md",
+    "Y0-todo list.md",
+    "国内Up主推荐.md",
+    "固有的无兴趣.md",
+    "沟通技巧.md",
+    "唱歌.md",
+    "常用配置.md",
+    "README.md",
+    "rfc.md",
+    "2026-02-07.md",
+    "Y4-书评.md",
+    "Y2-收藏的文章.md",
     "todo list.md",
     "2026-02-05.md",
-    "常用配置.md",
     "Y3-云旅游.md",
-    "Y4-公开课.md",
     "Y5-程序员练级攻略.md",
     "Y5-英语练级攻略.md",
-    "固有的无兴趣.md",
-    "README.md",
     "Chrome插件.md",
     "摘抄.md",
     "演讲.md",
     "2025-08-29.md",
-    "沟通技巧.md",
     "健康运动.md",
     "归档/自用模板1.md",
     "Y6-YouTuber推荐.md",
-    "2026-01-25.md",
-    "GitHub仓库评分.md",
     "book/125-questions-exploration-and-discovery.pdf",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
