@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y3-云旅游.md",
+                "file": "2026-02-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y3-云旅游"
+              "title": "2026-02-11"
             }
           },
           {
@@ -555,13 +555,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y3-云旅游.md",
+                "file": "2026-02-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y3-云旅游 的大纲"
+              "title": "2026-02-11 的大纲"
             }
           },
           {
@@ -606,6 +606,8 @@
   },
   "active": "957fcc556ebcfd19",
   "lastOpenFiles": [
+    "Y3-云旅游.md",
+    "2026-02-11.md",
     "Y4-公开课.md",
     "Y1-自我教育和再教育.md",
     "Y1-好问题和坏问题.md",
@@ -622,7 +624,6 @@
     "Y2-收藏的文章.md",
     "todo list.md",
     "2026-02-05.md",
-    "Y3-云旅游.md",
     "Y5-程序员练级攻略.md",
     "Y5-英语练级攻略.md",
     "Chrome插件.md",
@@ -631,7 +632,6 @@
     "2025-08-29.md",
     "健康运动.md",
     "归档/自用模板1.md",
-    "Y6-YouTuber推荐.md",
     "book/125-questions-exploration-and-discovery.pdf",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
