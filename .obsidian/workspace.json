@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-21.md",
+                "file": "2026-02-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-21"
+              "title": "2026-02-24"
             }
           },
           {
@@ -456,7 +456,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "围棋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -487,7 +487,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -555,13 +556,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-02-21.md",
+                "file": "2026-02-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-21 的大纲"
+              "title": "2026-02-24 的大纲"
             }
           },
           {
@@ -606,32 +607,32 @@
   },
   "active": "957fcc556ebcfd19",
   "lastOpenFiles": [
-    "Y2-收藏的文章.md",
-    "2026-02-21.md",
-    "沟通技巧.md",
+    "健康运动.md",
+    "2026-02-24.md",
+    "Y0-todo list.md",
+    "Y4-书评.md",
     "Y3-云旅游.md",
-    "2026-02-11.md",
-    "Y4-公开课.md",
+    "Y2-收藏的文章.md",
     "Y1-自我教育和再教育.md",
     "Y1-好问题和坏问题.md",
-    "Y0-todo list.md",
+    "rfc.md",
+    "摘抄.md",
+    "GitHub仓库评分.md",
+    "Chrome插件.md",
+    "2026-02-21.md",
+    "沟通技巧.md",
+    "2026-02-11.md",
+    "Y4-公开课.md",
     "国内Up主推荐.md",
     "固有的无兴趣.md",
     "唱歌.md",
     "常用配置.md",
     "README.md",
-    "rfc.md",
     "2026-02-07.md",
-    "Y4-书评.md",
     "todo list.md",
     "2026-02-05.md",
     "Y5-程序员练级攻略.md",
     "Y5-英语练级攻略.md",
-    "Chrome插件.md",
-    "摘抄.md",
-    "演讲.md",
-    "2025-08-29.md",
-    "健康运动.md",
     "book/125-questions-exploration-and-discovery.pdf",
     "book/RFC/rfc3173.pdf",
     "book/RFC",
