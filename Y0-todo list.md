@@ -177,7 +177,6 @@ https://github.com/llwslc/grammar-club   《语法俱乐部》- 旋元佑
 
 https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
 
-西游记：可看可不看，全书约 80 万字，阅读时长约 13 小时 
 
 
 时间简史：可看可不看，全书约 11 万字，阅读时长约 4 小时 
