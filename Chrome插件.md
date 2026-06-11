@@ -22,6 +22,16 @@
 3、[OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)：将所有标签页转换成一个列表的插件，这对于标签页常年大于100的人来说是个福音，但仅仅想整理时的缓解，因为过不了多久标签页又满了。
 
 
+4、 [Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)：一款增强 GitHub 代码审查和浏览体验的浏览器扩展。
+
+
+5、[篡改猴](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_campaign=en)：它是一款功能强大的浏览器扩展功能，拥有超过1000万用户，可以在网站上运行用户脚本，从而提升您的浏览体验。许多中国用户称篡改猴为油猴。
+
+油猴插件：
+[Greasy Fork](https://greasyfork.org/zh-CN)：一个专为用户脚本打造的网站。
+
+
+10、谷歌自带的密码，不需要再使用
 
 ### 推荐阅读项目    
 
