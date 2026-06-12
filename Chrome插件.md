@@ -31,7 +31,12 @@
 [Greasy Fork](https://greasyfork.org/zh-CN)：一个专为用户脚本打造的网站。
 
 
-10、谷歌自带的密码，不需要再使用
+6、[悬浮画中画播放器](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)：以画中画模式播放
+
+7、[Smallpdf](https://chromewebstore.google.com/detail/smallpdf%E2%80%94edit-convert-com/ohfgljdgelakfkefopgklcohadegdpjf)：易于使用的 PDF 工具，可在浏览器中压缩、转换、合并、拆分 PDF 文件，并与其进行对话和对其进行电子签名。
+
+
+20、谷歌自带的密码，不需要再使用
 
 ### 推荐阅读项目    
 
