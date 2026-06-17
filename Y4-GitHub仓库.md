@@ -35,10 +35,27 @@
 ###  可不阅读项目
 4、[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
 
+### 格式
  
+1、[document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
 
+
+配置
+
+[ohmyzsh-Plugins]([https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins))
+
+
+[reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)：技术面试最后反问面试官的话
+
+# 插件
 
 ### 资源集散地
+
+
+
+1、[Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)：Effective Java（第 3 版）各章节的中英文学习参考
+
+
 
 6、[awesome](https://github.com/sindresorhus/awesome)：
 
@@ -68,6 +85,11 @@ C 语言框架、库等资源。perf、gdb、Clang、GCC、git、[dpdk](https://
 
 
 ### 开源书籍
+
+[the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，这本书比较简单，可以一看
+
+
+
 41、<!-- 
     [introduction-to-bash-scripting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-bash-scripting)：《Bash 脚本入门指南》。这是一本教你如何编写出色的 Bash 脚本的开源书籍。
     -->
