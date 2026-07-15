@@ -21,6 +21,7 @@
 YouTube订阅量最多的频道，他的视频创意、制作成本真得太吸引人眼球：金钱挑战、慈善事业、赠送金钱。他的频道是当下最好的娱乐节目之一。播放量千万的视频在他的频道里都算是靠后了，上亿的视频都可以看看。
 
 2、[Dude Perfect](https://www.youtube.com/@dudeperfect/videos)：
+以花式投篮、各种奇葩梗、挑战赛、瓶盖挑战、乒乓球以及各种竞技娱乐而闻名。自 2009 年以来，我们一直致力于打造最精彩的合家欢体育喜剧娱乐节目。
 
 3、[Zach King](https://www.youtube.com/@ZachKing/videos)：
 
@@ -29,6 +30,10 @@ YouTube订阅量最多的频道，他的视频创意、制作成本真得太吸�
 
 5、[Marques Brownlee](https://www.youtube.com/@mkbhd/videos)
 极客和消费电子产品 
+
+6、[Outdoor Boys](https://www.youtube.com/@OutdoorBoys/videos)
+我们热爱一切户外活动：家庭项目和探险、旅行、锻造、露营、篝火烹饪、化石搜寻、磁力钓鱼、金属探测，以及任何我们想做的事情！
+老外是真喜欢看户外生存的节目，我看的不多，只看来最火的几个视频。
 
 6、[IGN](https://www.youtube.com/@IGN/videos)：
 游戏和娱乐新闻
@@ -103,7 +108,11 @@ vlog是他带起来的，主要拍纽约。
 
 * [Transcript for David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485](https://lexfridman.com/david-kirtley-transcript): 核聚变发电本质上是个工程难题，而不是物理原理问题，它是使用19世纪的物理知识，比核裂变更加清洁高效。它的难点是怎么把高温的等离子体聚合在一起碰撞并发电，现在有两个分支惯性聚变和磁聚变，但是短期内都很难突破。 如果你相信能够突破的话，把这个愿景来创业真得挺让人兴奋，毕竟你真在解决人类能源难题。
 
+###  两性关系
 
+1、[Howcast](https://www.youtube.com/@howcast/videos) ： 专注于制作高质量的教学视频，主要是来学习怎么接吻的。
+
+2、[Jinnytty 企鵝妹 지니티](https://www.youtube.com/@jinnytty_/videos)：看关于女性讲解的几个视频就够了
 
 ###  英语
 
