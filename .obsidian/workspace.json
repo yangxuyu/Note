@@ -119,12 +119,14 @@
             "id": "904d58945b8d6e83",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "Y4-书评.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.4"
+              "icon": "lucide-file",
+              "title": "Y4-书评"
             }
           },
           {
@@ -569,6 +571,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y4-书评.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -619,13 +622,13 @@
   },
   "active": "904d58945b8d6e83",
   "lastOpenFiles": [
+    "Y1-好问题和坏问题.md",
     "2026-08-05.md",
     "Y6-YouTuber推荐.md",
     "2026-08-02.md",
     "Y4-书评.md",
     "2026-07-25.md",
     "Y2-收藏的文章.md",
-    "Y1-好问题和坏问题.md",
     "Y0-todo list.md",
     "rfc.md",
     "README.md",
