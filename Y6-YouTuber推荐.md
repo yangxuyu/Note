@@ -93,9 +93,16 @@ vlog是他带起来的，主要拍纽约。
 	
 	But I can’t overstate from my vantage how true that is. Nothing else matters but your family.
 	
-	Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it once you have kids. It’s like it’s chicken in the egg, but it’s actually not. When you have responsibility, when you have no… This is true of men, I’m not sure if true of women, but it’s definitely true of men, you will not achieve until you have no choice. Because I always think of men, men do nothing until they have to, but once they have to, they will do anything. That is true.
+	Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it once you have kids. It’s like it’s chicken in the egg, but it’s actually not. When you have responsibility, when you have no… This is true of men, I’m not sure if true of women, but it’s definitely true of men, you will not achieve until you have no choice. Because I always think of men, men do nothing until they have to, but once they have to, they will do anything. That is true
 
+* [Transcript for Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456](https://lexfridman.com/volodymyr-zelenskyy-transcript#trump-inauguration-on-jan-20)：乌克兰只是美俄之间的缓冲带，不管泽连斯基说什么漂亮话和让人可怜的话，永远保持和双方沟通的意愿，都改变不了乌克兰要被牺牲的处境。
 * [Transcript for Narendra Modi: Prime Minister of India – Power, Democracy, War & Peace | Lex Fridman Podcast #460](https://lexfridman.com/narendra-modi-transcript)：莫迪真得是政治家的感觉，带着面具的真诚，表面都是peace and  democracy，但是本质还是nationalism。印度是计划经济，民主政治。印度文化传播真得很广，瑜伽、冥想、断食、黑塞和乔布斯。
+* [Transcript for Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472](https://lexfridman.com/terence-tao-transcript#chapter5_math_vs_physics) ：
+>  Mathematics is concerned with the models. Science collects the observations, and it proposes the models that might explain these observations. 
+>  In almost any other discipline, you start with the conclusions.
+>  So over time, the observations and the theory and the modeling should both get closer to reality, but initially, and this is always the case out there, they’re always far apart to begin with, but you need one to figure out where to push the other.
+>  Well, there are these three ontological things. There’s actual reality, there’s observations and our models, and technically they are distinct, and I think they will always be distinct
+
 * [Transcript for Keyu Jin: China’s Economy, Tariffs, Trade, Trump, Communism & Capitalism | Lex Fridman Podcast #477](https://lexfridman.com/keyu-jin-transcript): 就事论事只说这次访谈。金刻羽的结论其实很苍白，她并没有说到中国经济的根本，只是在给西方解释中国经济的现状。她的主要经济观点是鼓吹消费，但是消费的前提条件一个都不说。真得在循环论证：是消费造就经济强国，还是经济强国自然而然就会消费。
 * [ Transcript for Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA | Lex Fridman Podcast #481](https://lexfridman.com/norman-ohler-transcript)：他这个强行把希特勒和甲基苯丙胺建立相关性，他的观点比野史还野，随便听听就行，千万别当真。希特勒两大失败决策：东线没有继续进攻敦刻尔克，从而放走几十万英法联军，西线没有集中兵力打下斯大林格勒，分兵攻打莫斯科，战况直接反转。就如同 Norman 在采访中说得一样，其实对于希特勒的生活习惯等，电影是不感兴趣的，关于甲基苯丙胺也是没办法拍的。
 * Transcript for Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fridman Podcast #482 ：
