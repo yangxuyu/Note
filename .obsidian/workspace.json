@@ -121,12 +121,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y6-YouTuber推荐.md",
+                "file": "2026-08-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y6-YouTuber推荐"
+              "title": "2026-08-27"
+            }
+          },
+          {
+            "id": "8b63b5175a1147cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.7"
             }
           },
           {
@@ -438,7 +450,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -571,7 +583,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y6-YouTuber推荐.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -620,10 +631,11 @@
       "infio-copilot:打开 Infio Copilot": false
     }
   },
-  "active": "904d58945b8d6e83",
+  "active": "8b63b5175a1147cc",
   "lastOpenFiles": [
-    "健康运动.md",
     "Y6-YouTuber推荐.md",
+    "2026-08-27.md",
+    "健康运动.md",
     "Y4-书评.md",
     "Y4-公开课.md",
     "Y2-收藏的文章.md",
@@ -647,7 +659,6 @@
     "唱歌.md",
     "常用配置.md",
     "2025-08-29.md",
-    "2026-06-11.md",
     "book/CS/Effective C++ 中文第三版.pdf",
     "book/CS",
     "book/新建文件夹",
