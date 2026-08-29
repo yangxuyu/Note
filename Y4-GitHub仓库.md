@@ -79,16 +79,18 @@ C 语言框架、库等资源。perf、gdb、Clang、GCC、git、[dpdk](https://
 
 
 2.  [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
-    
+
 
 4. [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) 这个偏向道，有一些资料推荐，但更重要的是选择合适自己的方法，以及喜欢的材料。毕竟现在的英语资料那么多，学英语不应该是痛苦的背八股。
 
 
 ### 开源书籍
 
-[the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，这本书比较简单，可以一看
+1. [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，这本书比较简单，可以一看
 
+2. [线性代数的艺术](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)：用直观的方式呈现《人人都能学的线性代数》中介绍的重要概念
 
+3. 
 
 41、<!-- 
     [introduction-to-bash-scripting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-bash-scripting)：《Bash 脚本入门指南》。这是一本教你如何编写出色的 Bash 脚本的开源书籍。

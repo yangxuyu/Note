@@ -78,11 +78,9 @@ vlog是他带起来的，主要拍纽约。
 5、[zardofficial](https://www.youtube.com/@zardofficial/videos)：推荐播放量 1000 w
 姐姐唱过 《灌篮高手》、《名侦探柯南》、《龙珠GT》、《中华小当家》的主题曲。那个时候的歌会让人感到欢快、青春，未来是有奔头的。
 
-###  可不阅读项目
+###  博客
 
-[Lex Fridman](https://www.youtube.com/@lexfridman)
-
-
+1、[Lex Fridman](https://www.youtube.com/@lexfridman)：推荐播放量 200 w
 
 
 
@@ -95,6 +93,7 @@ vlog是他带起来的，主要拍纽约。
 	
 	Oh, I can’t afford that.” Well, yeah, you’ll figure out a way to afford it once you have kids. It’s like it’s chicken in the egg, but it’s actually not. When you have responsibility, when you have no… This is true of men, I’m not sure if true of women, but it’s definitely true of men, you will not achieve until you have no choice. Because I always think of men, men do nothing until they have to, but once they have to, they will do anything. That is true
 
+* [Transcript for Donald Trump Interview | Lex Fridman Podcast #442](https://lexfridman.com/donald-trump-transcript)：
 * [Transcript for Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456](https://lexfridman.com/volodymyr-zelenskyy-transcript#trump-inauguration-on-jan-20)：乌克兰只是美俄之间的缓冲带，不管泽连斯基说什么漂亮话和让人可怜的话，永远保持和双方沟通的意愿，都改变不了乌克兰要被牺牲的处境。
 * [Transcript for Narendra Modi: Prime Minister of India – Power, Democracy, War & Peace | Lex Fridman Podcast #460](https://lexfridman.com/narendra-modi-transcript)：莫迪真得是政治家的感觉，带着面具的真诚，表面都是peace and  democracy，但是本质还是nationalism。印度是计划经济，民主政治。印度文化传播真得很广，瑜伽、冥想、断食、黑塞和乔布斯。
 * [Transcript for Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472](https://lexfridman.com/terence-tao-transcript#chapter5_math_vs_physics) ：
@@ -182,7 +181,8 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 1、[【路旁的叶修】东京生活记录2015-2016](https://www.bilibili.com/video/BV1Us411877i)：
 这个系列视频对我还是很有特殊意义的，我的的确确是因为叶修的影响来到了南京，我到现在都记得他一句话大意是：我现在已经在努力变好，希望大家也能够共同进步。总有一天我会去东京，看看他看过的风景，他在东京最快乐的时光。
 
-
+2、[王师傅の日记]([https://www.bilibili.com/video/BV1Us411877i](https://space.bilibili.com/3546619609876957))：
+这个系列视频对我还是很有特殊意义的，我的的确确是因为叶修的影响来到了南京，我到现在都记得他一句话大意是：我现在已经在努力变好，希望大家也能够共同进步。总有一天我会去东京，看看他看过的风景，他在东京最快乐的时光。
 
  <!-- 
 
