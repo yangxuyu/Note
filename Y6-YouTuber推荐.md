@@ -17,16 +17,17 @@
 
 ### 娱乐项目
 
-1、[ MrBeast 野兽先生](https://www.youtube.com/@MrBeast)：
+1、[ MrBeast 野兽先生](https://www.youtube.com/@MrBeast)：推荐 1亿 播放量
 YouTube订阅量最多的频道，他的视频创意、制作成本真得太吸引人眼球：金钱挑战、慈善事业、赠送金钱。他的频道是当下最好的娱乐节目之一。播放量千万的视频在他的频道里都算是靠后了，上亿的视频都可以看看。
 
 2、[Dude Perfect](https://www.youtube.com/@dudeperfect/videos)：
 以花式投篮、各种奇葩梗、挑战赛、瓶盖挑战、乒乓球以及各种竞技娱乐而闻名。自 2009 年以来，我们一直致力于打造最精彩的合家欢体育喜剧娱乐节目。
 
-3、[Zach King](https://www.youtube.com/@ZachKing/videos)：
+3、[Zach King](https://www.youtube.com/@ZachKing/videos)：推荐 1000w 播放量
+他是短视频时代的魔术师，视觉特效魔术。
 
-4、[Gordon Ramsay](https://www.youtube.com/GordonRamsay)：
-戈登是世界上最知名、最具影响力的厨师之一，他的性格真得很像乔布斯。地域厨神是他最出名的外号。
+4、[Gordon Ramsay](https://www.youtube.com/GordonRamsay)：推荐 1000w 播放量
+戈登是世界上最知名、最具影响力的厨师之一，他的性格真得很像乔布斯。地域厨神是他最出名的外号。他也是真得吃得下像大便一样的食物，职业素养真得没得说，但是他吃完也是真得骂你。
 
 5、[Marques Brownlee](https://www.youtube.com/@mkbhd/videos)
 极客和消费电子产品 
@@ -185,7 +186,7 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 这个系列视频对我还是很有特殊意义的，我的的确确是因为叶修的影响来到了南京，我到现在都记得他一句话大意是：我现在已经在努力变好，希望大家也能够共同进步。总有一天我会去东京，看看他看过的风景，他在东京最快乐的时光。
 
 2、[王师傅の日记]([https://www.bilibili.com/video/BV1Us411877i](https://space.bilibili.com/3546619609876957))：
-王师傅真得是很随性的人，他的骑行旅游视频最重要的核心是让自己爽，怎么舒服怎么来，所以说男人的快乐有时候还是很简单的。
+王师傅真得是很随性的人，他的骑行旅游视频最重要的核心是让自己爽，怎么舒服怎么来，所以说男人的快乐有时候还是很简单的。但是他视频的缺点就是太长了，还是看看高能进度条里的亮点就可以了。
 
  <!-- 
 
