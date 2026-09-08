@@ -13,37 +13,15 @@
 
 
 ###  todo
-1. 删除国内Up主推荐.md
-2. 演讲.md 改到收藏的文档里
 
-最开始听演讲是为了学习英语，但是听着听着，发现演讲本身是自身的价值的。说场面话的同时，还能得明确表达你的观点；虽然是个单方面的输出，但是得根据观众的背景来确定演讲核心和目的；通过自身的情绪与观众互动提升感染力。
 
-演讲是对下的，在中国基本上是个无用的技能。
-
-[听课笔记 | MIT麻省理工学院教你《如何演讲》](https://zhuanlan.zhihu.com/p/282735958)
-
-[2025The Inaugural Address](https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/) 
-
-[The Fringe Benefits of Failure, and the Importance of Imagination](https://news.harvard.edu/gazette/story/2008/06/text-of-j-k-rowling-speech/):
- > the moment you are old enough to take the wheel, responsibility lies with you. 
- >
- > What I feared most for myself at your age was not poverty, but failure.
->
-> At your age, in spite of a distinct lack of motivation at university, where I had spent far too long in the coffee bar writing  stories, and far too little time at lectures, I had a knack for passing examinations, and that, for years, had been the measure of success in my life and that of my peers.
 
 
 [2005 Stanford Commencement Address](https://www.rev.com/transcripts/steve-jobs-stanford-commencement-speech-transcript-2005)
 
 
- the biggest enemies of freedom are fear and greed, so you make sure that they don’t stand in your way. If you imagine the worst thing that can happen to you and then make yourself be comfortable with it, there is nothing more left to be afraid of. So you stand your ground and you remember that it’s worth living your life according to the principles that you believe in, even though this life can end up being shorter than a longer life, but lived in slavery.
  
-if you do the same thing everybody else around you is doing, you don’t have any competitive advantage and you don’t get to become outstanding at some point in your life.
 
-But rather you should be proactive. You should deliberately try to set a goal, an area that you want to explore, and then actively search information that is relevant to this field, so that one day you can become the world’s number one expert in this field. And it’s not that difficult to do that. You have to just remain consistent because nobody else is trying to do that. Everybody else is just reading the same news and discussing the same news every day. But this way they don’t get to have a competitive advantage.
-
-
-
-3. 
 
 
 

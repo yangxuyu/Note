@@ -99,19 +99,20 @@ vlog是他带起来的，主要拍纽约。
 * [Transcript for Narendra Modi: Prime Minister of India – Power, Democracy, War & Peace | Lex Fridman Podcast #460](https://lexfridman.com/narendra-modi-transcript)：莫迪真得是政治家的感觉，带着面具的真诚，表面都是peace and  democracy，但是本质还是nationalism。印度是计划经济，民主政治。印度文化传播真得很广，瑜伽、冥想、断食、黑塞和乔布斯。
 * [Transcript for Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472](https://lexfridman.com/terence-tao-transcript#chapter5_math_vs_physics) ：
 >  Mathematics is concerned with the models. Science collects the observations, and it proposes the models that might explain these observations. 
+>  
 >  In almost any other discipline, you start with the conclusions.
 >  So over time, the observations and the theory and the modeling should both get closer to reality, but initially, and this is always the case out there, they’re always far apart to begin with, but you need one to figure out where to push the other.
+>  
 >  Well, there are these three ontological things. There’s actual reality, there’s observations and our models, and technically they are distinct, and I think they will always be distinct
 
 * [Transcript for Keyu Jin: China’s Economy, Tariffs, Trade, Trump, Communism & Capitalism | Lex Fridman Podcast #477](https://lexfridman.com/keyu-jin-transcript): 就事论事只说这次访谈。金刻羽的结论其实很苍白，她并没有说到中国经济的根本，只是在给西方解释中国经济的现状。她的主要经济观点是鼓吹消费，但是消费的前提条件一个都不说。真得在循环论证：是消费造就经济强国，还是经济强国自然而然就会消费。
 * [ Transcript for Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA | Lex Fridman Podcast #481](https://lexfridman.com/norman-ohler-transcript)：他这个强行把希特勒和甲基苯丙胺建立相关性，他的观点比野史还野，随便听听就行，千万别当真。希特勒两大失败决策：东线没有继续进攻敦刻尔克，从而放走几十万英法联军，西线没有集中兵力打下斯大林格勒，分兵攻打莫斯科，战况直接反转。就如同 Norman 在采访中说得一样，其实对于希特勒的生活习惯等，电影是不感兴趣的，关于甲基苯丙胺也是没办法拍的。
 * Transcript for Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fridman Podcast #482 ：
-	if you do the same thing everybody else around you is doing, you don’t have any competitive advantage and you don’t get to become outstanding at some point in your life.
-	
-	So it’s extremely important to curate the information sources that you have, so that you wouldn’t be somebody who is left to the will of AI-based algorithmic feed telling you what’s important so that you end up consuming the same information, the same stuff, the same memes, the same news as everybody else.
-	But rather you should be proactive. You should deliberately try to set a goal, an area that you want to explore, and then actively search information that is relevant to this field, so that one day you can become the world’s number one expert in this field. And it’s not that difficult to do that. You have to just remain consistent because nobody else is trying to do that. Everybody else is just reading the same news and discussing the same news every day. But this way they don’t get to have a competitive advantage.
-	
-
+>  if you do the same thing everybody else around you is doing, you don’t have any competitive advantage and you don’t get to become outstanding at some point in your life.
+  > 
+  > So it’s extremely important to curate the information sources that you have, so that you wouldn’t be somebody who is left to the will of AI-based algorithmic feed telling you what’s important so that you end up consuming the same information, the same stuff, the same memes, the same news as everybody else.
+  > 
+  > But rather you should be proactive. You should deliberately try to set a goal, an area that you want to explore, and then actively search information that is relevant to this field, so that one day you can become the world’s number one expert in this field. And it’s not that difficult to do that. You have to just remain consistent because nobody else is trying to do that. Everybody else is just reading the same news and discussing the same news every day. But this way they don’t get to have a competitive advantage.
 
 * [Transcript for David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485](https://lexfridman.com/david-kirtley-transcript): 核聚变发电本质上是个工程难题，而不是物理原理问题，它是使用19世纪的物理知识，比核裂变更加清洁高效。它的难点是怎么把高温的等离子体聚合在一起碰撞并发电，现在有两个分支惯性聚变和磁聚变，但是短期内都很难突破。 如果你相信能够突破的话，把这个愿景来创业真得挺让人兴奋，毕竟你真在解决人类能源难题。
 
