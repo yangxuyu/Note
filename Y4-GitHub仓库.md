@@ -10,7 +10,7 @@
 > **以下为内容**｜ 不定期更新
 
 ###  力荐阅读项目   
-1、[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)，这个仓库分享 GitHub 上很多有趣、入门级的开源项目。因为各个语言的项目它都推荐，只需要找找自己感兴趣的就行。
+
 
 
 
@@ -37,67 +37,76 @@
 
 ### 格式
  
-1、[document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
-
+1. [document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
+2. [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines):中文文案排版指北
 
 配置
 
-[ohmyzsh-Plugins]([https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins))
+
 
 
 [reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)：技术面试最后反问面试官的话
 
-# 插件
+### 插件
 
-### 资源集散地
-
-
-
-1、[Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)：Effective Java（第 3 版）各章节的中英文学习参考
+1. [ohmyzsh-Plugins]([https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins))
+2. 
 
 
 
-6、[awesome](https://github.com/sindresorhus/awesome)：
-
-
-7、[awesome-go](https://github.com/avelino/awesome-go)：
-
-8、[awesome-cpp](https://github.com/fffaraz/awesome-cpp)：
-C++ 标准库、STL、Qt、WTL、pytorch、TensorFlow、GoogleTest、grpc、[opencv](https://github.com/opencv/opencv)、lua、[fmt](https://github.com/fmtlib/fmt)
 
 
 
-9、 [awesome-c](https://github.com/oz123/awesome-c)
-C 语言框架、库等资源。perf、gdb、Clang、GCC、git、[dpdk](https://github.com/DPDK/dpdk) 这几个算是C比较出名的库了。
-
-
-35、<!-- -->
 
 
 
-   <!-- -->
-
-
-2.  [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
+2.  [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
 
 
 4. [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) 这个偏向道，有一些资料推荐，但更重要的是选择合适自己的方法，以及喜欢的材料。毕竟现在的英语资料那么多，学英语不应该是痛苦的背八股。
 
 
+
+
+### 文档
+
+1. [how-to-read-source-code](https://github.com/freedombird9/how-to-read-source-code/tree/master):怎样阅读源代码
+
 ### 开源书籍
 
-1. [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，这本书比较简单，可以一看
+1.  [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，这本书比较简单，可以一看
 
 2. [线性代数的艺术](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)：用直观的方式呈现《人人都能学的线性代数》中介绍的重要概念
 
-3. 
+3. [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)：Effective Java（第 3 版）各章节的中英文学习参考
 
-41、<!-- 
-    [introduction-to-bash-scripting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-bash-scripting)：《Bash 脚本入门指南》。这是一本教你如何编写出色的 Bash 脚本的开源书籍。
-    -->
+4. 
 
 
 
+
+### 资源集
+
+
+
+
+
+1. [awesome](https://github.com/sindresorhus/awesome)：
+
+
+2. [awesome-go](https://github.com/avelino/awesome-go)：
+3. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)：
+C++ 标准库、STL、Qt、WTL、pytorch、TensorFlow、GoogleTest、grpc、[opencv](https://github.com/opencv/opencv)、lua、[fmt](https://github.com/fmtlib/fmt)
+
+4.  [awesome-c](https://github.com/oz123/awesome-c)
+C 语言框架、库等资源。perf、gdb、Clang、GCC、git、[dpdk](https://github.com/DPDK/dpdk) 这几个算是C比较出名的库了。
+
+
+
+
+
+
+<!-- -->
 
 
 
