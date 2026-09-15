@@ -24,8 +24,7 @@
 推荐工程师合适的书籍
 
 
-[ddia](https://github.com/Vonng/ddia)： 推荐
-设计数据密集型应用 - 中文翻译版
+
 
 
 [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)：非常推荐
@@ -34,6 +33,11 @@
 
 ###  可不阅读项目
 4、[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
+
+
+
+
+
 
 ### 格式
  
@@ -45,7 +49,7 @@
 
 
 
-[reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)：技术面试最后反问面试官的话
+
 
 ### 插件
 
@@ -67,10 +71,27 @@
 
 
 
+### 工具
+
+[sshfs](https://github.com/libfuse/sshfs)  :A network filesystem client to connect to SSH servers
+> sshfs 目标主机名@目标ip：文件夹路径   本地挂载文件夹绝对路径（空文件夹）
+> sshfs zte@10.229.194.18:/home/zte/ /home/10322612@zte.intra/server15/
+Zxr.10
+
+取消挂载命令：
+fusermount -u 本地挂载文件夹绝对路径
+fusermount -u  /home/10322612@zte.intra/server15/
+
+
+
+
 
 ### 文档
 
 1. [how-to-read-source-code](https://github.com/freedombird9/how-to-read-source-code/tree/master):怎样阅读源代码
+2. [reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh): 技术面试最后反问面试官的话
+3. [secguide](https://github.com/Tencent/secguide):面向开发人员梳理的代码安全指南
+4. [git-tips](https://github.com/521xueweihan/git-tips):Git的奇技淫巧
 
 ### 开源书籍
 
@@ -80,7 +101,9 @@
 
 3. [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)：Effective Java（第 3 版）各章节的中英文学习参考
 
-4. 
+4. [ddia](https://github.com/Vonng/ddia)： 设计数据密集型应用 - 中文翻译版
+
+5. 
 
 
 
@@ -95,14 +118,16 @@
 
 
 2. [awesome-go](https://github.com/avelino/awesome-go)：
+3. 
 3. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)：
 C++ 标准库、STL、Qt、WTL、pytorch、TensorFlow、GoogleTest、grpc、[opencv](https://github.com/opencv/opencv)、lua、[fmt](https://github.com/fmtlib/fmt)
 
-4.  [awesome-c](https://github.com/oz123/awesome-c)
+4.  [awesome-c](https://github.com/oz123/awesome-c):
 C 语言框架、库等资源。perf、gdb、Clang、GCC、git、[dpdk](https://github.com/DPDK/dpdk) 这几个算是C比较出名的库了。
 
+5. [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners):
 
-
+6. [awesome-math](https://github.com/rossant/awesome-math):
 
 
 
