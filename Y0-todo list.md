@@ -154,15 +154,16 @@
 
 　　43、《巴菲特的投资组合》，作者：（美）罗伯特・哈格斯特朗
 
-　　44、《财富公式：玩转拉斯维加斯和华尔街的故事》，作者：（美）威廉・庞德斯通
 
-　　45、《诚信的背后：华尔街圈钱游戏的真相》（也译为泥鸽靶），作者：（美）弗兰克・帕特诺伊
 
-　　46、《愚者的阴谋》，作者：（美）库尔特・艾欣沃尔德
 
-　　47、《门口的野蛮人》，作者：（美）布莱恩・伯勒，约翰・希利亚尔
 
-　　48、《贼巢》，作者：（美）詹姆斯・B・斯图尔特
+[Transcript for Robert F. Kennedy Jr: CIA, Power, Corruption, War, Freedom, and Meaning | Lex Fridman Podcast #388](https://lexfridman.com/robert-f-kennedy-jr-transcript)
+ it’s not our business to change the Russian government. And anybody who thinks it’s a good idea to do a regime change in Russia, which has more nuclear weapons than we do, is I think irresponsible.
+ 
+And Vladimir Putin himself has said, “We will not live in a world without Russia.” 
+
+ It’s not our job to change that regime. We should be making friends with the Russians. We shouldn’t be treating him as an enemy. Now we’ve pushed him into the camp with China. That’s not a good thing for our country.
 
 
 公开课：
