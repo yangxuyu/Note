@@ -9,42 +9,34 @@
 ## 内容
 > **以下为内容**｜ 不定期更新
 
-###  力荐阅读项目   
 
 
 
 
-### 推荐阅读项目    
-2、[learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) ：几分钟快速了解一门编程语言的语法，就几分钟，都能帮我弄明白了Java、Julia等之前一些不懂的点。如果想进一步了解，它也提供了一些官方资料。但它少了些介绍，比如擅长什么方面，以及趋势性的介绍，不过对于几分钟介绍编程语言，太苛求了。
+### code
 
-3、[self-consistent-coder](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhangchenchen/self-consistent-coder)：《自洽的程序员》。这是一本关于程序员如何管理自己的情绪和职业心态的书籍，帮助程序员从负面情绪中解脱出来，更加坦然地面对自己的内心，从而实现“自洽“。
-
-
-[expert_readed_books](https://github.com/0voice/expert_readed_books)：可读可不读
-推荐工程师合适的书籍
-
-
-
-
-
-[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)：非常推荐
-教你如何正确的提出技术问题
-
-
-###  可不阅读项目
-4、[计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
+1. [wtfpython](https://github.com/satwikkansal/wtfpython)：
+2. [wtfjs](https://github.com/denysdovhan/wtfjs)：A list of funny and tricky JavaScript examples
+3. [go](https://github.com/golang/go)：
 
 
 
 
 
 
-### 格式
+
+
+
+
+### 排版
  
-1. [document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
-2. [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines):中文文案排版指北
+1. [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines):中文文案排版指北
+2. [document-style-guide](https://github.com/ruanyf/document-style-guide)：中文技术文档的写作规范
+3. [styleguide](https://github.com/google/styleguide)：Style guides for Google-originated open-source projects
 
-配置
+
+
+### 配置
 
 
 
@@ -53,82 +45,98 @@
 
 ### 插件
 
-1. [ohmyzsh-Plugins]([https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins))
-2. 
+1. [ohmyzsh-Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
+2. [rustlings](https://github.com/rust-lang/rustlings):
 
 
-
-
-
-
-
-
-
-2.  [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
-
-
-4. [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) 这个偏向道，有一些资料推荐，但更重要的是选择合适自己的方法，以及喜欢的材料。毕竟现在的英语资料那么多，学英语不应该是痛苦的背八股。
 
 
 
 ### 工具
 
-[sshfs](https://github.com/libfuse/sshfs)  :A network filesystem client to connect to SSH servers
+1. [sshfs](https://github.com/libfuse/sshfs)  :A network filesystem client to connect to SSH servers
 > sshfs 目标主机名@目标ip：文件夹路径   本地挂载文件夹绝对路径（空文件夹）
 > sshfs zte@10.229.194.18:/home/zte/ /home/10322612@zte.intra/server15/
-Zxr.10
+>Zxr.10
+>
+>取消挂载命令：
+>fusermount -u 本地挂载文件夹绝对路径
+>fusermount -u  /home/10322612@zte.intra/server15/
 
-取消挂载命令：
-fusermount -u 本地挂载文件夹绝对路径
-fusermount -u  /home/10322612@zte.intra/server15/
+2. [color](https://github.com/gookit/color): Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows.
+3. [tldr](https://github.com/tldr-pages/tldr)：Collaborative cheatsheets for console commands
 
+
+### APP
+1. [syncthing](https://github.com/syncthing/syncthing):Open Source Continuous File Synchronization
+2. [beego](https://github.com/beego/beego)：beego is an open-source, high-performance web framework for the Go programming language.
+
+
+### 笔记
+
+1. [stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh)：斯坦福博弈论中文笔记，我看过耶鲁的博弈论课程，就没有看这门课了。主要是这个仓库里有斯坦福的机器学习和深度学习的笔记。
+
+### 答案
 
 
 
 
 ### 文档
 
-1. [how-to-read-source-code](https://github.com/freedombird9/how-to-read-source-code/tree/master):怎样阅读源代码
-2. [reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh): 技术面试最后反问面试官的话
-3. [secguide](https://github.com/Tencent/secguide):面向开发人员梳理的代码安全指南
-4. [git-tips](https://github.com/521xueweihan/git-tips):Git的奇技淫巧
+1. [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/tree/master):Master the command line, in one page
+2. [English-level-up-tips](https://github.com/byoungd/English-level-up-tips): 这个偏向道，有一些资料推荐，但更重要的是选择合适自己的方法，以及喜欢的材料。毕竟现在的英语资料那么多，学英语不应该是痛苦的背八股。
+3. [learn-regex](https://github.com/ziishaned/learn-regex):Learn regex the easy way
+4. [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md): 教你如何正确的提出技术问题
+5. [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) :
+6. [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN):TeachYourselfCS 的中文翻译
+7. [reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh): 技术面试最后反问面试官的话
+8. [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)：A guide on how to be a Programmer - originally published by Robert L Read
+9. [git-tips](https://github.com/521xueweihan/git-tips):Git的奇技淫巧
+10. [secguide](https://github.com/Tencent/secguide):面向开发人员梳理的代码安全指南
+11. [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) ：几分钟快速了解一门编程语言的语法，就几分钟，都能帮我弄明白了Java、Julia等之前一些不懂的点。如果想进一步了解，它也提供了一些官方资料。但它少了些介绍，比如擅长什么方面，以及趋势性的介绍，不过对于几分钟介绍编程语言，太苛求了。
+12. [how-to-read-source-code](https://github.com/freedombird9/how-to-read-source-code/tree/master):怎样阅读源代码
+13. [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)：💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+14. [git-flight-rules](https://github.com/k88hudson/git-flight-rules)：Flight rules for git
+15. [how-web-works](https://github.com/vasanthk/how-web-works)：What happens behind the scenes when we type www.google.com in a browser?
+
+
+
+
+
 
 ### 开源书籍
 
 1.  [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，这本书比较简单，可以一看
 
-2. [线性代数的艺术](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)：用直观的方式呈现《人人都能学的线性代数》中介绍的重要概念
+2. [ddia](https://github.com/Vonng/ddia)： 设计数据密集型应用 - 中文翻译版
 
-3. [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)：Effective Java（第 3 版）各章节的中英文学习参考
+3. [线性代数的艺术](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)：用直观的方式呈现《人人都能学的线性代数》中介绍的重要概念
 
-4. [ddia](https://github.com/Vonng/ddia)： 设计数据密集型应用 - 中文翻译版
+4. [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)：Effective Java（第 3 版）各章节的中英文学习参考
 
-5. 
+5. [self-consistent-coder](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhangchenchen/self-consistent-coder)：《自洽的程序员》。这是一本关于程序员如何管理自己的情绪和职业心态的书籍，帮助程序员从负面情绪中解脱出来，更加坦然地面对自己的内心，从而实现“自洽“。
+6. [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)：你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 
+
+### 视频
+
+1. [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质的视频，适合非专业人士了解计算机历史和计算机专业名词。
 
 
 ### 资源集
 
-
-
-
-
 1. [awesome](https://github.com/sindresorhus/awesome)：
-
-
-2. [awesome-go](https://github.com/avelino/awesome-go)：
-3. 
-3. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)：
+2. [awesome-python](https://github.com/vinta/awesome-python):
+3. [awesome-go](https://github.com/avelino/awesome-go)：
+4. [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners):
+5. [awesome-cpp](https://github.com/fffaraz/awesome-cpp)：
 C++ 标准库、STL、Qt、WTL、pytorch、TensorFlow、GoogleTest、grpc、[opencv](https://github.com/opencv/opencv)、lua、[fmt](https://github.com/fmtlib/fmt)
-
-4.  [awesome-c](https://github.com/oz123/awesome-c):
-C 语言框架、库等资源。perf、gdb、Clang、GCC、git、[dpdk](https://github.com/DPDK/dpdk) 这几个算是C比较出名的库了。
-
-5. [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners):
-
 6. [awesome-math](https://github.com/rossant/awesome-math):
-
+7. [expert_readed_books](https://github.com/0voice/expert_readed_books)：可读可不读,推荐工程师合适的书籍
+8.  [awesome-c](https://github.com/oz123/awesome-c):
+C 语言框架、库等资源。perf、gdb、Clang、GCC、git、[dpdk](https://github.com/DPDK/dpdk) 这几个算是C比较出名的库了。
+9. [Awesome_Math_Books](https://github.com/valeman/Awesome_Math_Books)：
 
 
 <!-- -->
