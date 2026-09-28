@@ -15,7 +15,7 @@
 
 ### code
 
-1. [wtfpython](https://github.com/satwikkansal/wtfpython)：
+1. [wtfpython](https://github.com/satwikkansal/wtfpython)：What the f*ck Python? 
 2. [wtfjs](https://github.com/denysdovhan/wtfjs)：A list of funny and tricky JavaScript examples
 3. [go](https://github.com/golang/go)：
 
