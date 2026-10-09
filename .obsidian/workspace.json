@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摘抄.md",
+                "file": "2026-10-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "摘抄"
+              "title": "2026-10-09"
             }
           },
           {
@@ -585,7 +585,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "摘抄.md",
+                "file": "2026-10-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -636,6 +636,8 @@
   },
   "active": "69567162e6d06835",
   "lastOpenFiles": [
+    "摘抄.md",
+    "2026-10-09.md",
     "Y3-云旅游.md",
     "Y2-收藏的文章.md",
     "Y1-自我教育和再教育.md",
@@ -660,8 +662,6 @@
     "演讲.md",
     "Y4-公开课.md",
     "Y6-Uper推荐.md",
-    "2026-09-09.md",
-    "极客时间.md",
     "book/CS/Effective C++ 中文第三版.pdf",
     "book/CS",
     "book/新建文件夹",
