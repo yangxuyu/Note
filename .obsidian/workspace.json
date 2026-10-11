@@ -149,12 +149,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-09.md",
+                "file": "2026-10-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-09"
+              "title": "2026-10-11"
+            }
+          },
+          {
+            "id": "191600b41c5cd0fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.14.4"
             }
           },
           {
@@ -452,7 +464,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -585,7 +597,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-10-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -634,10 +645,15 @@
       "infio-copilot:打开 Infio Copilot": false
     }
   },
-  "active": "69567162e6d06835",
+  "active": "191600b41c5cd0fc",
   "lastOpenFiles": [
-    "摘抄.md",
+    "沟通技巧.md",
+    "2026-10-11.md",
+    "唱歌.md",
+    "常用配置.md",
+    "Y4-书评.md",
     "2026-10-09.md",
+    "摘抄.md",
     "Y3-云旅游.md",
     "Y2-收藏的文章.md",
     "Y1-自我教育和再教育.md",
@@ -646,13 +662,9 @@
     "Y5-游戏开发练级.md",
     "归档/自用模板1.md",
     "Y5-程序员练级攻略.md",
-    "Y4-书评.md",
     "Y4-GitHub仓库.md",
     "README.md",
     "rfc.md",
-    "沟通技巧.md",
-    "唱歌.md",
-    "常用配置.md",
     "2026-08-02.md",
     "2026-08-05.md",
     "健康运动.md",
@@ -661,7 +673,6 @@
     "英语.md",
     "演讲.md",
     "Y4-公开课.md",
-    "Y6-Uper推荐.md",
     "book/CS/Effective C++ 中文第三版.pdf",
     "book/CS",
     "book/新建文件夹",
