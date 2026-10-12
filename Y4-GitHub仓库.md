@@ -56,12 +56,12 @@
 
 1. [sshfs](https://github.com/libfuse/sshfs)  :A network filesystem client to connect to SSH servers
 > sshfs 目标主机名@目标ip：文件夹路径   本地挂载文件夹绝对路径（空文件夹）
-> sshfs zte@10.229.194.18:/home/zte/ /home/10322612@zte.intra/server15/
->Zxr.10
+> sshfs user@10.1.1.1:/home/test1/ /home/test2
+>password
 >
 >取消挂载命令：
 >fusermount -u 本地挂载文件夹绝对路径
->fusermount -u  /home/10322612@zte.intra/server15/
+>fusermount -u  /home/
 
 2. [color](https://github.com/gookit/color): Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows.
 3. [tldr](https://github.com/tldr-pages/tldr)：Collaborative cheatsheets for console commands
