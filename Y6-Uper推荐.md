@@ -131,9 +131,13 @@ TED 演讲频道汇集了 TED 大会上的最佳演讲和表演，世界顶尖�
 
 3、[linguamarina](https://www.youtube.com/@linguamarina)：
 
-3、[English with Lucy](https://www.youtube.com/@EnglishwithLucy)：英式发音的博主
+3、[English with Lucy](https://www.youtube.com/@EnglishwithLucy)：
+英式发音的博主
 
-4、[Rachel's English](https://www.youtube.com/@rachelsenglish)：
+4、[Rachel's English](https://www.youtube.com/@rachelsenglish)：推荐播放量 200 w，大约 X 个小时
+Rachel's English 是您的在线美式英语发音学习资源。所有视频均配有字幕，帮助非英语母语人士理解
+
+
 
 5、[English with Ronnie](https://www.youtube.com/@engvidRonnie)：
 

@@ -62,6 +62,24 @@
         "isNativeComment": false,
         "type": "highlight"
       }
+    ],
+    "copilot/skills/obsidian-markdown/SKILL.md": [
+      {
+        "id": "w3e2h2ojm",
+        "text": "inline comments",
+        "tags": [],
+        "line": 81,
+        "startOffset": 2090,
+        "endOffset": 2109,
+        "filePath": "copilot/skills/obsidian-markdown/SKILL.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "inline comments"
+        ],
+        "createdAt": 1791756142671,
+        "isNativeComment": true,
+        "type": "comment"
+      }
     ]
   },
   "collections": {},

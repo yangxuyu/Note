@@ -161,12 +161,14 @@
             "id": "191600b41c5cd0fc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "2026-10-13.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.14.4"
+              "icon": "lucide-file",
+              "title": "2026-10-13"
             }
           },
           {
@@ -549,7 +551,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序员.md",
+                "file": "Y4-公开课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -559,7 +561,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "程序员 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -568,12 +570,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序员.md",
+                "file": "Y4-公开课.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "程序员 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -597,22 +599,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Y4-公开课.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "大纲"
-            }
-          },
-          {
-            "id": "18fbe711effe882d",
-            "type": "leaf",
-            "state": {
-              "type": "infio-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Infio chat"
             }
           },
           {
@@ -624,13 +617,23 @@
               "icon": "highlighter",
               "title": "Highlights"
             }
+          },
+          {
+            "id": "85b2ee28137401e6",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -642,46 +645,46 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "sidebar-highlights:Open highlights": false,
-      "infio-copilot:打开 Infio Copilot": false
+      "copilot:Open Copilot Agent Chat": false
     }
   },
   "active": "191600b41c5cd0fc",
   "lastOpenFiles": [
-    "沟通技巧.md",
-    "2026-10-11.md",
-    "唱歌.md",
-    "常用配置.md",
-    "Y4-书评.md",
-    "2026-10-09.md",
-    "摘抄.md",
+    "Y4-公开课.md",
+    "2026-10-13.md",
     "Y3-云旅游.md",
     "Y2-收藏的文章.md",
-    "Y1-自我教育和再教育.md",
-    "Y1-好问题和坏问题.md",
-    "2026-09-28.md",
-    "Y5-游戏开发练级.md",
-    "归档/自用模板1.md",
+    "Y4-书评.md",
     "Y5-程序员练级攻略.md",
     "Y4-GitHub仓库.md",
-    "README.md",
+    "心愿单和拔草.md",
+    "copilot/copilot-conversations/agent__帮我调整_序号正确@20261012_060359.md",
+    "copilot/copilot-conversations",
+    "Y1-自我教育和再教育.md",
+    "Y1-好问题和坏问题.md",
     "rfc.md",
-    "2026-08-02.md",
-    "2026-08-05.md",
-    "健康运动.md",
+    "README.md",
     "Chrome插件.md",
-    "Y0-todo list.md",
-    "英语.md",
-    "演讲.md",
-    "Y4-公开课.md",
-    "book/CS/Effective C++ 中文第三版.pdf",
-    "book/CS",
-    "book/新建文件夹",
-    "book/Effective C++ 中文第三版.pdf",
-    "book/125-questions-exploration-and-discovery.pdf",
-    "book/RFC/rfc3173.pdf",
-    "book/RFC",
-    "book/rfc",
-    "_infio_prompts",
-    "book/how to speak.pdf"
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/openartifacts-publish/SKILL.md",
+    "copilot/skills/openartifacts-publish/themes/research-memo.md"
   ]
 }
