@@ -176,29 +176,13 @@ https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
 
 
 
-时间简史：可看可不看，全书约 11 万字，阅读时长约 4 小时 
-
-宇宙观的演变、狭义和广义相对论、膨胀的宇宙、不约定性原理、四大基本作用力、黑洞的性质、时间箭头、物理学是否存在统一理论。
-
-入门科普书，比较适合青少年或者非科班成年人。书本身是本好书，基本涵盖了物理学中和时间相关的重要问题。
-
-人月神话：约 31.6万字（316,000字）。这是目前最常见的“40周年中文纪念版”的数据 。
-阅读时长：因人而异，大约在10小时到20小时以上
 
 微观经济学关注的是个体（比如你、我、一家公司）的决策。
 宏观经济学关注的是整体（比如整个国家甚至全球经济）的运行规律。
 
 经济学是使用数学工具来选择如何决定社会稀缺性资源使用的社会科学
 
-月亮和六便士：推荐，全书约 X 万字，阅读时长约 X 小时
-包法利夫人：可看可不看，全书约 21 万字，阅读时长约 7 小时
-effective c++的读后感
-编译原理的pdf 下载 和读后感
-程序员修炼之道 从小工到专家  下载 和读后感
  
-
-
-
 
 
 
@@ -243,9 +227,6 @@ https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
 你的梦想？
 
 操作系统中   主板上电后到打开图形界面的每个过程的关键步骤的交接细节
-
-gcc hello.c -o hello
-
 
 
 
@@ -529,7 +510,6 @@ https://www.realdexter.com/
 
 朝代之争
 
-关公秦琼之争
 
 
 
@@ -602,26 +582,9 @@ drwxr-xr-x  2 root root 2 Jun 30 18:06 dir
 
 
 
-源码：
-[reddit](https://github.com/reddit-archive/reddit)
-[calculator](https://github.com/microsoft/calculator)
-
-工具：
-[thefuck](https://github.com/nvbn/thefuck)
-[code996](https://github.com/hellodigua/code996)
 
 
-vim主题：
-[powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
-
-书籍：
-[rust-course](https://github.com/sunface/rust-course)
-[time-as-a-friend](https://github.com/xiaolai/time-as-a-friend/tree/master)
-
-
-插件
-[obsidian-git](https://github.com/Vinzent03/obsidian-git)
 
 
 
@@ -634,34 +597,9 @@ vim主题：
 
 
 
-插件
-
-
-[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
 
 
-
-配置：
-[gitignore](https://github.com/github/gitignore)
-[LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-
-
-
-
-
-
-
-
-学习笔记：
-
-
-
-
-
-
-公开课：
-https://github.com/pkuflyingpig/cs-self-learning/
 
 
 
@@ -715,10 +653,6 @@ CS61A: Structure and Interpretation of Computer Programs
 宫不唐捐 多多少少还是有些自欺欺人的味道
 
 - - 开篇以“小时候读过的书，长大了才明白”引出话题，讲述自己因父亲的话，从金庸延伸阅读大仲马的《三剑客》，进而又阅读了巴尔扎克、福楼拜、莫泊桑、欧·亨利、海明威等作家的
-
-
-
-
 
 
 
