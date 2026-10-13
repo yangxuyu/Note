@@ -40,6 +40,18 @@
 
 ### 未分类/待处理
 
+* 我逆行是不对，但是我是为了交通方便
+
+* 学习新东西的方法（从好到差）：
+  1. 一边用、一边学——比如学设计最好的方法是动手做设计
+  2. 把学到的东西教给别人
+  3. 用自己的话复述学到的东西
+  4. 原样记录一遍，加深记忆
+
+* 夫妻关系：一是男方没有经济收入，二是夫妻生活不和谐，这两种情况是没办法过下去的
+
+* 很多时候外力会影响你，你想考公、想做AI，其实很多人从事职业都是被动的、无奈的选择
+
 
 
 1. 在自己的认知中活着，谁的话都听不进去，你说他，他还跟你笑跟你示弱装无辜，搞得所有问题都不是他造成的一样。
@@ -58,6 +70,13 @@
 1. 你弱，别人会轻视你。你强，别人会嫉妒你。这个强弱有很多方面：经历、收入、
 2. 家道中落，收白眼，差别对待这些都是别人给与的难受，没用钱用真得实打实的无奈。以前日常吃得起的饭馆的菜品现在再也吃不了，或者独有的饮食习惯也要被迫修改，这种痛苦真得每天都在经历。
 3. 又怕兄弟苦，又怕兄弟开路虎
+4. 人是需要销售自己的，是需要美化自己的
+5. 见着怂人压不住火，见着火人搂不住怂
+6. 皮肤饰品就像雄性动物求偶时的展示
+7. 说话的信任度：要不就直接拒绝别人，不要半推半就的答应，然后转身就又拒绝别人。别人真的会很生气，以及降低对你的信任，会立刻觉得你是个不靠谱的人
+8. 如果不想祸从口出，就假设背后说的每句蛐蛐话都会被转述给当事人，在不被歪曲的前提下依旧不得罪人，就可以说了。同理，从业人员为了不得罪金主不会大肆批评，甚至说很多不符合事实的美化——不断他人财路，就是不断自己财路
+9. 陌生人上来交往过于热情，其实是很危险的。他一定是想从你这获取什么东西
+10. 县长是谁不重要，县长夫人很重要。一边靠粉丝赚钱，一边又看不起粉丝
 
 
 
@@ -68,10 +87,6 @@
 一、传记类
 
 　　芒格认为，传记是一种更易于使人们将思想创立者的生活与人格联系在一起的方式。“如果你一生中总是与那些有远见卓识的故人交友的话，那么你将生活得更好，更有教养。这比仅仅讲一些大道理强多了。”
-
-　　1、《富兰克林自传》，作者：（美）本杰明・富兰克林
-
-　　2、《本杰明・富兰克林》，作者：（美）卡尔范多伦
 
 
 
@@ -158,13 +173,6 @@
 
 
 
-[Transcript for Robert F. Kennedy Jr: CIA, Power, Corruption, War, Freedom, and Meaning | Lex Fridman Podcast #388](https://lexfridman.com/robert-f-kennedy-jr-transcript)
- it’s not our business to change the Russian government. And anybody who thinks it’s a good idea to do a regime change in Russia, which has more nuclear weapons than we do, is I think irresponsible.
- 
-And Vladimir Putin himself has said, “We will not live in a world without Russia.” 
-
- It’s not our job to change that regime. We should be making friends with the Russians. We shouldn’t be treating him as an enemy. Now we’ve pushed him into the camp with China. That’s not a good thing for our country.
-
 
 公开课：
 https://github.com/missing-semester/missing-semester
@@ -206,11 +214,6 @@ https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
 
 
 
-
-冰岛
-黑沙漠
-雷斯特岩
-迪霍拉岩
 
 
 公众人物主动谈梦想，其实挺虚伪的。
@@ -589,10 +592,6 @@ drwxr-xr-x  2 root root 2 Jun 30 18:06 dir
 
 
 
-厨艺
-
-
-其实这个是值的学习的，但是对于我来说中餐真得太麻烦了 。
 
 
 

@@ -367,7 +367,7 @@
     "debugFullFrames": true,
     "notificationSound": true,
     "notificationSoundId": "piano",
-    "welcomeDismissed": false,
+    "welcomeDismissed": true,
     "skills": {
       "folder": "copilot/skills",
       "builtinPreferences": {
@@ -506,6 +506,15 @@
       },
       "configuredModelId": "319c80bf-4d58-4e2d-914c-fafb64a6ec24",
       "configuredAt": 1791756145705
+    },
+    {
+      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
+      "info": {
+        "id": "opencode/cat-jam-free",
+        "displayName": "opencode/Cat Jam Free"
+      },
+      "configuredModelId": "1e42aefe-6698-474b-aa7b-97703f197622",
+      "configuredAt": 1791906110216
     }
   ],
   "backends": {
