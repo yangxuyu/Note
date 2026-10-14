@@ -420,15 +420,6 @@
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
-        "id": "opencode/ling-3.0-flash-fin-free",
-        "displayName": "opencode/Ling 3.0 Flash Fin Free"
-      },
-      "configuredModelId": "29725393-ccbf-420f-af94-92dbcd9ba894",
-      "configuredAt": 1791756144970
-    },
-    {
-      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
-      "info": {
         "id": "opencode/longcat-2.5-preview-free",
         "displayName": "opencode/LongCat 2.5 Preview Free"
       },
@@ -484,19 +475,10 @@
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
         "id": "opencode/exo-free",
-        "displayName": "opencode/Exo Free"
+        "displayName": "opencode/exo-free"
       },
       "configuredModelId": "4e193acc-4083-4c97-be06-0558b9157bc5",
       "configuredAt": 1791756145704
-    },
-    {
-      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
-      "info": {
-        "id": "opencode/ling-3.1-flash-free",
-        "displayName": "opencode/Ling 3.1 Flash Free"
-      },
-      "configuredModelId": "0b2802c3-e155-416f-b26a-4964188a3847",
-      "configuredAt": 1791756145705
     },
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
@@ -521,7 +503,6 @@
     "opencode": {
       "enabledModels": [
         "7582dd9d-8619-4f32-9db6-994994bb09c0",
-        "29725393-ccbf-420f-af94-92dbcd9ba894",
         "83666534-638a-464f-9f81-07372c3a7342"
       ]
     }
