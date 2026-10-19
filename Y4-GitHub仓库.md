@@ -17,6 +17,14 @@
 - [资源集与 Awesome](#资源集与-awesome)
 - [答案](#答案)
 
+https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual
+Effective-Java 的中文版，这个就是 Java 的规范，我觉得还是写了很多 Java 以后才会有感觉，早看脑子里只能有个印象，记个大概。
+
+https://github.com/zhaoolee/ChromeAppHeroes
+其实这上面推荐的谷歌插件不一定是最好的最全的，但是它是我能找到的最好一个参考，在这个基础上进行改善，听舒服的。
+
+
+
 ## 公开课与视频
 
 - [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)：科普性质视频，适合非专业人士了解计算机历史和计算机专业名词。
@@ -32,6 +40,7 @@
 - [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)：你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码。
 - [线性代数的艺术](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)：用直观方式呈现《人人都能学的线性代数》中的重要概念。
 - [Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)：Effective Java（第 3 版）各章节中英文学习参考。
+  - 这就是 Java 的规范。感觉还是写了很多 Java 之后才会有感觉，早看脑子里只能有个印象，记个大概。
 - [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)：《自洽的程序员》，关于程序员如何管理情绪和职业心态。
 - [time-as-a-friend](https://github.com/xiaolai/time-as-a-friend/tree/master)：李笑来《把时间当作朋友》开源版。
 - [grammar-club](https://github.com/llwslc/grammar-club)：《语法俱乐部》- 旋元佑，英语语法书。
@@ -64,6 +73,8 @@
   - 用法：`sshfs user@10.1.1.1:/home/test1/ /home/test2`
   - 取消挂载：`fusermount -u /home/test2`
 - [best-windows-apps](https://github.com/stackia/best-windows-apps)：Windows 软件推荐。
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)：Chrome 插件/应用推荐合集。
+  - 上面推荐的谷歌插件不一定是最好的、最全的，但是是目前能找到的最好的参考，在这个基础上再改善，挺舒服的。
 - [code996](https://github.com/hellodigua/code996)：分析 Git 提交记录，统计加班时间，计算你的“996”指数。
 - [reference](https://wangchujiang.com/reference/)：为开发人员分享快速参考备忘清单，非常推荐。
   - [Bash 备忘清单](https://wangchujiang.com/reference/docs/bash.html)

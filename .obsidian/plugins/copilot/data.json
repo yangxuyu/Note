@@ -438,15 +438,6 @@
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
-        "id": "opencode/muse-spark-1.3-contributor-free",
-        "displayName": "opencode/Muse Spark 1.3 Free"
-      },
-      "configuredModelId": "fc552f18-1120-49d3-a791-59f820a90e09",
-      "configuredAt": 1791756144971
-    },
-    {
-      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
-      "info": {
         "id": "opencode/nemotron-3-ultra-free",
         "displayName": "opencode/Nemotron 3 Ultra Free"
       },
@@ -483,20 +474,38 @@
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
-        "id": "opencode/step-5-preview-free",
-        "displayName": "opencode/Step 5 Preview Free"
+        "id": "opencode/beam-free",
+        "displayName": "opencode/Beam Free"
       },
-      "configuredModelId": "319c80bf-4d58-4e2d-914c-fafb64a6ec24",
-      "configuredAt": 1791756145705
+      "configuredModelId": "5f13d9ab-ec3d-48f6-9b08-43d82e00a02c",
+      "configuredAt": 1792325778894
     },
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
-        "id": "opencode/cat-jam-free",
-        "displayName": "opencode/Cat Jam Free"
+        "id": "opencode/deepseek-v4.1-flash-free",
+        "displayName": "opencode/DeepSeek V4.1 Flash Free"
       },
-      "configuredModelId": "1e42aefe-6698-474b-aa7b-97703f197622",
-      "configuredAt": 1791906110216
+      "configuredModelId": "737a6f6b-a9f5-4f85-92d9-b54624f4a2e8",
+      "configuredAt": 1792325778898
+    },
+    {
+      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
+      "info": {
+        "id": "opencode/glm-5.3-flash-free",
+        "displayName": "opencode/GLM-5.3-Flash Free"
+      },
+      "configuredModelId": "d8956666-26d7-4b42-a85c-37661406eabf",
+      "configuredAt": 1792325778898
+    },
+    {
+      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
+      "info": {
+        "id": "opencode/nemotron-3.5-super-vl-free",
+        "displayName": "opencode/Nemotron 3.5 Super VL Free"
+      },
+      "configuredModelId": "2fc902e3-5944-40a2-848f-fd430a0af440",
+      "configuredAt": 1792325778899
     }
   ],
   "backends": {
