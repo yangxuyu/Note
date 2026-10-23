@@ -163,12 +163,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y4-GitHub仓库.md",
+                "file": "Y4-书评.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y4-GitHub仓库"
+              "title": "Y4-书评"
             }
           },
           {
@@ -599,7 +599,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y4-GitHub仓库.md",
+                "file": "Y4-书评.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -629,7 +629,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -648,11 +648,11 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "191600b41c5cd0fc",
+  "active": "3845a5dc2c4ab901",
   "lastOpenFiles": [
-    "Y1-健康运动.md",
     "Y4-GitHub仓库.md",
     "Y4-书评.md",
+    "Y1-健康运动.md",
     "copilot/copilot-conversations/agent__httpsgithub.comclxeringEffective-Java-3rd-edition-Chinese-English-bilingua@20261018_201624.md",
     "Y5-游戏开发练级.md",
     "极客时间.md",
