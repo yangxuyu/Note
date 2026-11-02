@@ -163,26 +163,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2-收藏的文章.md",
+                "file": "2026-11-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y2-收藏的文章"
+              "title": "2026-11-02"
+            }
+          },
+          {
+            "id": "5757b35fca69e9b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.14.5"
             }
           },
           {
             "id": "4e14ed106beb1e63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GitHub仓库评分.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GitHub仓库评分"
+              "title": "新标签页"
             }
           },
           {
@@ -466,7 +474,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -500,7 +508,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"CS61A: Structure and Interpretation of Computer Programs\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -599,7 +607,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2-收藏的文章.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -648,16 +655,19 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "191600b41c5cd0fc",
+  "active": "5757b35fca69e9b1",
   "lastOpenFiles": [
-    "Y0-todo list.md",
-    "Y6-Uper推荐.md",
     "Y2-收藏的文章.md",
+    "2026-11-02.md",
+    "摘抄.md",
+    "Y4-书评.md",
+    "Y0-todo list.md",
+    "常用配置.md",
+    "唱歌.md",
+    "Y6-Uper推荐.md",
     "Y1-健康运动.md",
     "Y3-云旅游.md",
-    "常用配置.md",
     "Y1-自我教育和再教育.md",
-    "Y4-书评.md",
     "Y5-游戏开发练级.md",
     "Y4-GitHub仓库.md",
     "copilot/copilot-conversations/agent__httpsgithub.comclxeringEffective-Java-3rd-edition-Chinese-English-bilingua@20261018_201624.md",
@@ -667,15 +677,12 @@
     "2026-10-15.md",
     "固有的无兴趣.md",
     "沟通技巧.md",
-    "唱歌.md",
     "Y5-程序员练级攻略.md",
     "计算机.md",
     "rfc.md",
     "Y1-好问题和坏问题.md",
     "Y4-公开课.md",
     "英语.md",
-    "2025-07-23.md",
-    "2025-08-11.md",
     "copilot/copilot-conversations",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",

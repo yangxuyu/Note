@@ -317,7 +317,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": null,
+  "lastShownStartupVersion": "4.0.17",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -421,7 +421,7 @@
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
         "id": "opencode/longcat-2.5-preview-free",
-        "displayName": "opencode/LongCat 2.5 Preview Free"
+        "displayName": "opencode/longcat-2.5-preview-free"
       },
       "configuredModelId": "83666534-638a-464f-9f81-07372c3a7342",
       "configuredAt": 1791756144970
@@ -438,38 +438,11 @@
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
-        "id": "opencode/nemotron-3-ultra-free",
-        "displayName": "opencode/Nemotron 3 Ultra Free"
-      },
-      "configuredModelId": "0ae42278-9a75-4034-ae8a-a47e2e8a825c",
-      "configuredAt": 1791756144971
-    },
-    {
-      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
-      "info": {
         "id": "opencode/nemotron-3.5-lightning-free",
         "displayName": "opencode/Nemotron 3.5 Lightning Free"
       },
       "configuredModelId": "7f440b43-4645-4cd2-b43c-3a8405181edc",
       "configuredAt": 1791756144971
-    },
-    {
-      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
-      "info": {
-        "id": "opencode/space-bunny-free",
-        "displayName": "opencode/Space Bunny Free"
-      },
-      "configuredModelId": "ddff71b6-292d-40d1-9a1a-31269a095617",
-      "configuredAt": 1791756144971
-    },
-    {
-      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
-      "info": {
-        "id": "opencode/exo-free",
-        "displayName": "opencode/exo-free"
-      },
-      "configuredModelId": "4e193acc-4083-4c97-be06-0558b9157bc5",
-      "configuredAt": 1791756145704
     },
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
@@ -506,6 +479,15 @@
       },
       "configuredModelId": "2fc902e3-5944-40a2-848f-fd430a0af440",
       "configuredAt": 1792325778899
+    },
+    {
+      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
+      "info": {
+        "id": "opencode/flint-40b-free",
+        "displayName": "opencode/Flint 40B Free"
+      },
+      "configuredModelId": "9d5de012-05c0-4a0e-9cf6-b7f396db7299",
+      "configuredAt": 1793579914394
     }
   ],
   "backends": {
@@ -544,10 +526,7 @@
         "description": "A frontier open-weight model.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
@@ -605,10 +584,7 @@
         "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
