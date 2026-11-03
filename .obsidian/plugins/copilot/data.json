@@ -420,15 +420,6 @@
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
-        "id": "opencode/longcat-2.5-preview-free",
-        "displayName": "opencode/longcat-2.5-preview-free"
-      },
-      "configuredModelId": "83666534-638a-464f-9f81-07372c3a7342",
-      "configuredAt": 1791756144970
-    },
-    {
-      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
-      "info": {
         "id": "opencode/mimo-v2.6-flash-free",
         "displayName": "opencode/MiMo-V2.6-Flash Free"
       },
@@ -493,8 +484,7 @@
   "backends": {
     "opencode": {
       "enabledModels": [
-        "7582dd9d-8619-4f32-9db6-994994bb09c0",
-        "83666534-638a-464f-9f81-07372c3a7342"
+        "7582dd9d-8619-4f32-9db6-994994bb09c0"
       ]
     }
   },

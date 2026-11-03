@@ -90,6 +90,7 @@
 
 8. [rfc7541 - HPACK: Header Compression for HTTP/2](https://www.rfc-editor.org/rfc/rfc7541):
 	HPACK，HTTP/2 的头部压缩。静态表存常用头部用索引引用，动态表在连接期间维护增量更新，再加上 Huffman 编码和变长整数编码，把头部开销压下来。
+9. [rfc9114 - HTTP/3](https://www.rfc-editor.org/rfc/rfc9114): HTTP/3（2022），把 HTTP 语义整体迁移到 QUIC 之上。语义不变——方法、状态码、头部字段跟 HTTP/1.1、HTTP/2 一脉相承，但传输层换成了 QUIC，因此解决了一个 HTTP/2 解决不了的问题：**TCP 层的队头阻塞**。HTTP/2 虽然在应用层做了多路复用，但 TCP 丢一个包，所有流都得等重传；HTTP/3 把可靠性下放到 QUIC 的**流级别**，每个流独立重传、独立流控，一个流丢包不会拖住其他流。QUIC 还内置 TLS 1.3，建连从 TCP+TLS 的多次往返压到 1-RTT，会话恢复时甚至 **0-RTT**。连接迁移用 **Connection ID** 替代四元组，手机 Wi-Fi 切蜂窝时连接不中断。HTTP/3 的通信单元是**帧**，承载在三种 QUIC 流上：控制流、请求流、推送流；头部压缩改用 **QPACK**（RFC 9204），在 HPACK 基础上调整了动态表同步机制，避免压缩本身成为新的队头阻塞源。HTTP/3 允许的流数量上限也远高于 HTTP/2（2^62−1），所有帧都受 QUIC 流控覆盖。
 
 ### 网络安全
 

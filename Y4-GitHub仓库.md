@@ -115,6 +115,7 @@ https://github.com/zhaoolee/ChromeAppHeroes
 - [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)：屎山代码原则，反讽项目。
 - [How-to-run](https://github.com/lidangzzz/How-to-run)：立党零基础转码笔记，可看可不看。
 - [how-to-read-source-code](https://github.com/freedombird9/how-to-read-source-code/tree/master)：怎样阅读源代码。
+- [enchiridion-zh](https://github.com/goocarlos/enchiridion-zh)：爱比克泰德《手册》中文翻译，开源、免费，兼顾忠实原文与现代汉语可读性。
 
 ## 笔记与速查表
 
