@@ -479,6 +479,24 @@
       },
       "configuredModelId": "9d5de012-05c0-4a0e-9cf6-b7f396db7299",
       "configuredAt": 1793579914394
+    },
+    {
+      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
+      "info": {
+        "id": "opencode/crouton-alpha-free",
+        "displayName": "opencode/Crouton Alpha Free"
+      },
+      "configuredModelId": "039151a1-66bb-4e4a-83cb-ffaa81b48be6",
+      "configuredAt": 1793801208439
+    },
+    {
+      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
+      "info": {
+        "id": "opencode/pulse-alpha-free",
+        "displayName": "opencode/Pulse Alpha Free"
+      },
+      "configuredModelId": "e679ba55-579b-42f5-90c0-29dba77947f0",
+      "configuredAt": 1793801208440
     }
   ],
   "backends": {
