@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y4-书评.md",
+                "file": "2026-11-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y4-书评"
+              "title": "2026-11-14"
             }
           },
           {
@@ -599,7 +599,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y4-书评.md",
+                "file": "2026-11-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -650,6 +650,8 @@
   },
   "active": "fad4974aea5230a9",
   "lastOpenFiles": [
+    "Y4-书评.md",
+    "2026-11-14.md",
     "2025-08-11.md",
     "2026-06-11.md",
     "2026-06-12.md",
@@ -668,14 +670,12 @@
     "Y4-GitHub仓库.md",
     "Y3-云旅游.md",
     "摘抄.md",
-    "Y4-书评.md",
     "Y0-todo list.md",
     "常用配置.md",
     "唱歌.md",
     "Y1-健康运动.md",
     "Y5-游戏开发练级.md",
     "copilot/copilot-conversations/agent__httpsgithub.comclxeringEffective-Java-3rd-edition-Chinese-English-bilingua@20261018_201624.md",
-    "极客时间.md",
     "copilot/copilot-conversations",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",

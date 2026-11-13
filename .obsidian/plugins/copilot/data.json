@@ -317,7 +317,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": "4.0.18",
+  "lastShownStartupVersion": "4.0.20",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -483,20 +483,38 @@
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
-        "id": "opencode/crouton-alpha-free",
-        "displayName": "opencode/Crouton Alpha Free"
+        "id": "opencode/iceman-free",
+        "displayName": "opencode/Iceman Free"
       },
-      "configuredModelId": "039151a1-66bb-4e4a-83cb-ffaa81b48be6",
-      "configuredAt": 1793801208439
+      "configuredModelId": "cf6afcac-f621-447f-8a9c-33df5ef048a7",
+      "configuredAt": 1794595631733
     },
     {
       "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
       "info": {
-        "id": "opencode/pulse-alpha-free",
-        "displayName": "opencode/Pulse Alpha Free"
+        "id": "opencode/inkling-2-small-free",
+        "displayName": "opencode/Inkling 2 Small Free"
       },
-      "configuredModelId": "e679ba55-579b-42f5-90c0-29dba77947f0",
-      "configuredAt": 1793801208440
+      "configuredModelId": "5222d739-d498-4f62-b685-31b598015f59",
+      "configuredAt": 1794595631735
+    },
+    {
+      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
+      "info": {
+        "id": "opencode/longcat-2.5-free",
+        "displayName": "opencode/LongCat 2.5 Free"
+      },
+      "configuredModelId": "413e8b99-cb3d-4a80-bbfe-5c376d0a14b0",
+      "configuredAt": 1794595631735
+    },
+    {
+      "providerId": "fa7c9197-b617-485f-b658-341b107f2727",
+      "info": {
+        "id": "opencode/minimax-m3.1-flash-free",
+        "displayName": "opencode/MiniMax M3.1 Flash Free"
+      },
+      "configuredModelId": "8b882046-8bf1-4954-932d-ae96510d46dd",
+      "configuredAt": 1794595631735
     }
   ],
   "backends": {
@@ -571,25 +589,6 @@
         "id": "deepseek-v4-pro",
         "displayName": "DeepSeek V4 Pro",
         "description": "A top-tier model for the hardest reasoning and agentic tasks.",
-        "toolCall": true,
-        "reasoning": true,
-        "reasoningEfforts": [],
-        "modalities": {
-          "input": [
-            "text"
-          ],
-          "output": [
-            "text"
-          ]
-        },
-        "limits": {
-          "context": 1048576
-        }
-      },
-      {
-        "id": "deepseek-v4-flash-0731",
-        "displayName": "DeepSeek V4 Flash 0731",
-        "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
         "toolCall": true,
         "reasoning": true,
         "reasoningEfforts": [],
