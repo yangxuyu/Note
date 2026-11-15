@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-11-14.md",
+                "file": "Y4-书评.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-14"
+              "title": "Y4-书评"
             }
           },
           {
@@ -599,7 +599,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-11-14.md",
+                "file": "Y4-书评.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -650,8 +650,8 @@
   },
   "active": "fad4974aea5230a9",
   "lastOpenFiles": [
-    "Y4-书评.md",
     "2026-11-14.md",
+    "Y4-书评.md",
     "2025-08-11.md",
     "2026-06-11.md",
     "2026-06-12.md",
